@@ -228,14 +228,21 @@ const generateJson = async (buildDir, repoUrl, images) => {
             webp_thumb: withBase("public", "webp/thumbs", name, "webp"),
         };
     });
+    const imageObjJson = imageJson.reduce((acc, image) => {
+        acc[image.name] = image;
+        return acc;
+    }, {});
     const prettyJson = JSON.stringify(imageJson, null, 2);
     const minifiedJson = JSON.stringify(imageJson, null, 0);
+    const minifiedObjJson = JSON.stringify(imageObjJson, null, 0);
     const prettyJsonPath = path.join(buildDir, "maps.json");
     const minifiedJsonPath = path.join(buildDir, "maps.min.json");
+    const minifiedObjJsonPath = path.join(buildDir, "maps.obj.min.json");
     // Append is fine here, the build dir is fresh everytime
     return Promise.all([
         fs.promises.appendFile(prettyJsonPath, prettyJson),
         fs.promises.appendFile(minifiedJsonPath, minifiedJson),
+        fs.promises.appendFile(minifiedObjJsonPath, minifiedObjJson),
     ]);
 };
 exports.generateJson = generateJson;
