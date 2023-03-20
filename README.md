@@ -1,6 +1,8 @@
-# KZ Map Images
+# CSGO Map Images
 
-Images for global KZ maps available in the following:
+this repository fork from https://github.com/KZGlobalTeam/map-images.
+
+Images for global CSGO maps available in the following:
 - Full (1920x1080) - JPG/WEBP
 - Medium (512x288) - JPG/WEBP
 - Thumbnail (200x113) - JPG/WEBP
