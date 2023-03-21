@@ -186,7 +186,11 @@ const run = async () => {
     });
     await (0, utils_1.ensureDir)(buildDir);
     await (0, utils_1.timePromise)("Remove images", Promise.all(removeTasks));
-    await (0, utils_1.timePromise)("Generate images", Promise.all(generateTasks));
+    await (0, utils_1.timePromise)("Generate images", (async () => {
+        for (const task of generateTasks) {
+            await task;
+        }
+    })());
     await (0, utils_1.timePromise)("Generate JSON", (0, json_1.generateJson)(buildDir, pageUrl, allImages));
     await (0, utils_1.timePromise)("Generate README", (0, markdown_1.generateMarkdown)(buildDir, allImages));
     core.notice(`Removed ${removeTasks.length} images`);
