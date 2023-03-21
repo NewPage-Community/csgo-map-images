@@ -1,6 +1,7 @@
 import * as gm from "gm";
 import * as fs from "fs";
 import * as path from "path";
+import * as core from "@actions/core";
 
 import { ensureDir } from "./utils";
 import { ImageFormat, ImageVariant, ImageDimensions } from "./types";
@@ -33,6 +34,7 @@ export class ImageService {
 
   resizeImage(image: string, destPath: string, [w, h]: ImageDimensions) {
     return new Promise((resolve, reject) => {
+      core.debug(`Resizing ${image} to ${destPath} (${w}x${h})`);
       gm(image)
         .resize(w, h, "!")
         .noProfile()

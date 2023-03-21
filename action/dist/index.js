@@ -27,6 +27,7 @@ exports.ImageService = void 0;
 const gm = __nccwpck_require__(2442);
 const fs = __nccwpck_require__(7147);
 const path = __nccwpck_require__(1017);
+const core = __nccwpck_require__(2186);
 const utils_1 = __nccwpck_require__(918);
 const types_1 = __nccwpck_require__(8164);
 const variants = {
@@ -53,6 +54,7 @@ class ImageService {
     }
     resizeImage(image, destPath, [w, h]) {
         return new Promise((resolve, reject) => {
+            core.debug(`Resizing ${image} to ${destPath} (${w}x${h})`);
             gm(image)
                 .resize(w, h, "!")
                 .noProfile()
