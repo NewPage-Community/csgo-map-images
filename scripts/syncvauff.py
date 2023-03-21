@@ -54,7 +54,9 @@ def getVauffMapImageURL(map, appId):
 def getImage(map):
     url = getVauffMapImageURL(map, 730)
     # Check url empty
-    if (url == ''): return
+    if (url == ''):
+        print(f"{map} not found")
+        return
     response = urllib.request.urlopen(url)
     image = Image.open(response)
     # Get image resolution from stream
