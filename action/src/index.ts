@@ -104,11 +104,7 @@ export const run = async () => {
   await ensureDir(buildDir);
 
   await timePromise("Remove images", Promise.all(removeTasks));
-  await timePromise("Generate images", (async () => {
-    for (const task of generateTasks) {
-      await task;
-    }
-  })());
+  await timePromise("Generate images", Promise.all(generateTasks));
 
   await timePromise("Generate JSON", generateJson(buildDir, pageUrl, allImages));
   await timePromise("Generate README", generateMarkdown(buildDir, allImages));

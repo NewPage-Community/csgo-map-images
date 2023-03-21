@@ -34,7 +34,7 @@ export class ImageService {
 
   resizeImage(image: string, destPath: string, [w, h]: ImageDimensions) {
     return new Promise((resolve, reject) => {
-      core.debug(`Resizing ${image} to ${destPath} (${w}x${h})`);
+      core.info(`Resizing ${image} to ${destPath} (${w}x${h})`);
       gm(image)
         .resize(w, h, "!")
         .noProfile()
