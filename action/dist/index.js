@@ -129,7 +129,7 @@ const run = async () => {
     const srcDir = core.getInput("src_dir");
     const buildDir = core.getInput("build_dir");
     const context = github.context;
-    const pageUrl = `https://${context.payload.repository?.owner}.github.io/${context.payload.repository?.name}`;
+    const pageUrl = `https://${context.payload.repository?.owner.name}.github.io/${context.payload.repository?.name}`;
     const event = context.eventName;
     if (!constants_1.validEvents.includes(event)) {
         return core.setFailed(`Invalid event ${event}`);
