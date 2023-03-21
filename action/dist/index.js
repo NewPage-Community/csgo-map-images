@@ -53,16 +53,23 @@ class ImageService {
         this.buildDir = buildDir;
     }
     resizeImage(image, destPath, [w, h]) {
-        return new Promise((resolve, reject) => {
-            core.info(`Resizing ${image} to ${destPath} (${w}x${h})`);
-            gm(image)
-                .resize(w, h, "!")
-                .noProfile()
-                .write(destPath, (err) => {
-                if (err)
-                    return reject(err);
-                return resolve(destPath);
-            });
+        return new Promise(() => {
+            try {
+                gm(image)
+                    .resize(w, h, "!")
+                    .noProfile()
+                    .write(destPath, (err) => {
+                    if (!err)
+                        return;
+                    core.error(`Write failed ${image} to ${destPath} (${w}x${h})`);
+                    core.error(err);
+                });
+                // eslint-disable-next-line @typescript-eslint/no-explicit-any
+            }
+            catch (err) {
+                core.error(`Resize failed ${image} to ${destPath} (${w}x${h})`);
+                core.error(err);
+            }
         });
     }
     removeImage(srcImage) {
