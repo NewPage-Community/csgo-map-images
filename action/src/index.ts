@@ -16,11 +16,6 @@ import {
 
 import { DispatchInputs } from "./types";
 import { getFilesInDir, ensureDir, listEntries, timePromise } from "./utils";
-import async = require("async");
-
-const runLimit = (tasks: Promise<unknown>[]) => {
-  return async.mapLimit(tasks, 100, async (task: Promise<unknown>) => await task);
-};
 
 export const run = async () => {
   const token = core.getInput("token");
@@ -108,8 +103,8 @@ export const run = async () => {
 
   await ensureDir(buildDir);
 
-  await timePromise("Remove images", runLimit(removeTasks));
-  await timePromise("Generate images", runLimit(generateTasks));
+  await timePromise("Remove images", Promise.all(removeTasks));
+  await timePromise("Generate images", Promise.all(generateTasks));
 
   await timePromise("Generate JSON", generateJson(buildDir, pageUrl, allImages));
   await timePromise("Generate README", generateMarkdown(buildDir, allImages));
