@@ -24,7 +24,7 @@ export const run = async () => {
   const buildDir = core.getInput("build_dir");
 
   const context = github.context;
-  const pageUrl = `https://${context.repo.owner}.github.io/${context.repo.repo}`;
+  const pageUrl = "https://newpage-community.github.io/csgo-map-images";
 
   const event = context.eventName;
   if (!validEvents.includes(event)) {

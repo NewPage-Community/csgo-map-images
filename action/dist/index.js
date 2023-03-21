@@ -53,7 +53,7 @@ class ImageService {
         this.buildDir = buildDir;
     }
     resizeImage(image, destPath, [w, h]) {
-        return new Promise(() => {
+        return new Promise((resolve) => {
             try {
                 gm(image)
                     .resize(w, h, "!")
@@ -61,15 +61,16 @@ class ImageService {
                     .write(destPath, (err) => {
                     if (!err)
                         return;
-                    core.error(`Write failed ${image} to ${destPath} (${w}x${h})`);
-                    core.error(err);
+                    core.warning(`Write failed ${image} to ${destPath} (${w}x${h})`);
+                    core.warning(err);
                 });
                 // eslint-disable-next-line @typescript-eslint/no-explicit-any
             }
             catch (err) {
-                core.error(`Resize failed ${image} to ${destPath} (${w}x${h})`);
-                core.error(err);
+                core.warning(`Resize failed ${image} to ${destPath} (${w}x${h})`);
+                core.warning(err);
             }
+            resolve(destPath);
         });
     }
     removeImage(srcImage) {
@@ -138,7 +139,7 @@ const run = async () => {
     const srcDir = core.getInput("src_dir");
     const buildDir = core.getInput("build_dir");
     const context = github.context;
-    const pageUrl = `https://${context.repo.owner}.github.io/${context.repo.repo}`;
+    const pageUrl = "https://newpage-community.github.io/csgo-map-images";
     const event = context.eventName;
     if (!constants_1.validEvents.includes(event)) {
         return core.setFailed(`Invalid event ${event}`);
