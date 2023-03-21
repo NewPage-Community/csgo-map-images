@@ -10630,16 +10630,6 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_cso_decoy_v1_hdr.webp"
   },
   {
-    "name": "ze_ctr_terminal_v1_2_hdr",
-    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_ctr_terminal_v1_2_hdr.jpg",
-    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_ctr_terminal_v1_2_hdr.jpg",
-    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_ctr_terminal_v1_2_hdr.jpg",
-    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_ctr_terminal_v1_2_hdr.jpg",
-    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_ctr_terminal_v1_2_hdr.webp",
-    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_ctr_terminal_v1_2_hdr.webp",
-    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_ctr_terminal_v1_2_hdr.webp"
-  },
-  {
     "name": "ze_cursed_bear_tales_v1_2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_cursed_bear_tales_v1_2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_cursed_bear_tales_v1_2.jpg",
@@ -11158,16 +11148,6 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_farmhouse_v9f2.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_farmhouse_v9f2.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_farmhouse_v9f2.webp"
-  },
-  {
-    "name": "ze_fartlocker_escape",
-    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_fartlocker_escape.jpg",
-    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_fartlocker_escape.jpg",
-    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_fartlocker_escape.jpg",
-    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_fartlocker_escape.jpg",
-    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_fartlocker_escape.webp",
-    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_fartlocker_escape.webp",
-    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_fartlocker_escape.webp"
   },
   {
     "name": "ze_fast_escape_p2",
@@ -12068,16 +12048,6 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_l4d2_c1m3_mall_csgo_v0_3_le.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_l4d2_c1m3_mall_csgo_v0_3_le.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_l4d2_c1m3_mall_csgo_v0_3_le.webp"
-  },
-  {
-    "name": "ze_lab_v5",
-    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_lab_v5.jpg",
-    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_lab_v5.jpg",
-    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_lab_v5.jpg",
-    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_lab_v5.jpg",
-    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_lab_v5.webp",
-    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_lab_v5.webp",
-    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_lab_v5.webp"
   },
   {
     "name": "ze_last_man_standing_p2",
