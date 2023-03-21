@@ -33,21 +33,22 @@ export class ImageService {
   }
 
   resizeImage(image: string, destPath: string, [w, h]: ImageDimensions) {
-    return new Promise(() => {
+    return new Promise((resolve) => {
       try {
         gm(image)
           .resize(w, h, "!")
           .noProfile()
           .write(destPath, (err) => {
             if (!err) return;
-            core.error(`Write failed ${image} to ${destPath} (${w}x${h})`);
-            core.error(err);
+            core.warning(`Write failed ${image} to ${destPath} (${w}x${h})`);
+            core.warning(err);
           });
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
       } catch (err: any) {
-        core.error(`Resize failed ${image} to ${destPath} (${w}x${h})`);
-        core.error(err);
+        core.warning(`Resize failed ${image} to ${destPath} (${w}x${h})`);
+        core.warning(err);
       }
+      resolve(destPath);
     });
   }
 
