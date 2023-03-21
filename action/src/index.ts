@@ -24,14 +24,14 @@ export const run = async () => {
   const buildDir = core.getInput("build_dir");
 
   const context = github.context;
-  const repoUrl = context.payload.repository?.html_url;
+  const pageUrl = `https://${context.payload.repository?.owner}.github.io/${context.payload.repository?.name}`;
 
   const event = context.eventName;
   if (!validEvents.includes(event)) {
     return core.setFailed(`Invalid event ${event}`);
   }
 
-  if (!repoUrl) {
+  if (!pageUrl) {
     return core.setFailed("Failed to retrieve repository url");
   }
 
@@ -106,7 +106,7 @@ export const run = async () => {
   await timePromise("Remove images", Promise.all(removeTasks));
   await timePromise("Generate images", Promise.all(generateTasks));
 
-  await timePromise("Generate JSON", generateJson(buildDir, repoUrl, allImages));
+  await timePromise("Generate JSON", generateJson(buildDir, pageUrl, allImages));
   await timePromise("Generate README", generateMarkdown(buildDir, allImages));
 
   core.notice(`Removed ${removeTasks.length} images`);

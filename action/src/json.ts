@@ -5,7 +5,7 @@ import { ImageJson } from "./types";
 
 export const generateJson = async (buildDir: string, repoUrl: string, images: string[]) => {
   const withBase = (branch: string, dir: string, name: string, ext: string) => {
-    return `${repoUrl}/raw/${branch}/${dir}/${encodeURIComponent(name)}.${ext}`;
+    return `${repoUrl}/${dir}/${encodeURIComponent(name)}.${ext}`;
   };
 
   const imageJson: ImageJson[] = images.map((image) => {

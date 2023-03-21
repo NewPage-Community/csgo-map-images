@@ -129,12 +129,12 @@ const run = async () => {
     const srcDir = core.getInput("src_dir");
     const buildDir = core.getInput("build_dir");
     const context = github.context;
-    const repoUrl = context.payload.repository?.html_url;
+    const pageUrl = `https://${context.payload.repository?.owner}.github.io/${context.payload.repository?.name}`;
     const event = context.eventName;
     if (!constants_1.validEvents.includes(event)) {
         return core.setFailed(`Invalid event ${event}`);
     }
-    if (!repoUrl) {
+    if (!pageUrl) {
         return core.setFailed("Failed to retrieve repository url");
     }
     if (context.ref !== "refs/heads/master") {
@@ -187,7 +187,7 @@ const run = async () => {
     await (0, utils_1.ensureDir)(buildDir);
     await (0, utils_1.timePromise)("Remove images", Promise.all(removeTasks));
     await (0, utils_1.timePromise)("Generate images", Promise.all(generateTasks));
-    await (0, utils_1.timePromise)("Generate JSON", (0, json_1.generateJson)(buildDir, repoUrl, allImages));
+    await (0, utils_1.timePromise)("Generate JSON", (0, json_1.generateJson)(buildDir, pageUrl, allImages));
     await (0, utils_1.timePromise)("Generate README", (0, markdown_1.generateMarkdown)(buildDir, allImages));
     core.notice(`Removed ${removeTasks.length} images`);
     core.notice(`Generated ${generateTasks.length} images`);
@@ -213,7 +213,7 @@ const fs = __nccwpck_require__(7147);
 const path = __nccwpck_require__(1017);
 const generateJson = async (buildDir, repoUrl, images) => {
     const withBase = (branch, dir, name, ext) => {
-        return `${repoUrl}/raw/${branch}/${dir}/${encodeURIComponent(name)}.${ext}`;
+        return `${repoUrl}/${dir}/${encodeURIComponent(name)}.${ext}`;
     };
     const imageJson = images.map((image) => {
         const name = path.parse(image).name;
