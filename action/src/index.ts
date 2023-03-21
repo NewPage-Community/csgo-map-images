@@ -16,6 +16,7 @@ import {
 
 import { DispatchInputs } from "./types";
 import { getFilesInDir, ensureDir, listEntries, timePromise } from "./utils";
+import async = require("async");
 
 const promiseAllWithLimit = (tasks: Promise<any>[], limit: number) => {
   return new Promise((resolve, reject) => {
@@ -127,8 +128,8 @@ export const run = async () => {
 
   await ensureDir(buildDir);
 
-  await timePromise("Remove images", promiseAllWithLimit(removeTasks, 100));
-  await timePromise("Generate images", promiseAllWithLimit(generateTasks, 100));
+  await timePromise("Remove images", Promise.all(removeTasks));
+  await timePromise("Generate images", async.mapLimit(generateTasks, 100, async (task: Promise<unknown>) => await task));
 
   await timePromise("Generate JSON", generateJson(buildDir, pageUrl, allImages));
   await timePromise("Generate README", generateMarkdown(buildDir, allImages));
