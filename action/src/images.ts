@@ -45,8 +45,8 @@ export class ImageService {
 
   removeImage(srcImage: string) {
     return Promise.all([
-      this.generateImageFormat(srcImage, ImageFormat.JPG),
-      this.generateImageFormat(srcImage, ImageFormat.WEBP),
+      this.removeImageFormat(srcImage, ImageFormat.JPG),
+      this.removeImageFormat(srcImage, ImageFormat.WEBP),
     ]);
   }
 
