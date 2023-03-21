@@ -125,30 +125,8 @@ const images_1 = __nccwpck_require__(6246);
 const constants_1 = __nccwpck_require__(5105);
 const utils_1 = __nccwpck_require__(918);
 const async = __nccwpck_require__(7888);
-const promiseAllWithLimit = (tasks, limit) => {
-    return new Promise((resolve, reject) => {
-        const results = [];
-        let currentIndex = 0;
-        async function executeTask(index) {
-            try {
-                const result = await tasks[index];
-                results[index] = result;
-                currentIndex++;
-                if (currentIndex < tasks.length) {
-                    await executeTask(currentIndex);
-                }
-                else if (results.length === tasks.length) {
-                    resolve(results);
-                }
-            }
-            catch (error) {
-                reject(error);
-            }
-        }
-        for (let i = 0; i < Math.min(limit, tasks.length); i++) {
-            executeTask(currentIndex++);
-        }
-    });
+const runLimit = (tasks) => {
+    return async.mapLimit(tasks, 100, async (task) => await task);
 };
 const run = async () => {
     const token = core.getInput("token");
@@ -211,8 +189,8 @@ const run = async () => {
         return imageService.generateImage(image);
     });
     await (0, utils_1.ensureDir)(buildDir);
-    await (0, utils_1.timePromise)("Remove images", Promise.all(removeTasks));
-    await (0, utils_1.timePromise)("Generate images", async.mapLimit(generateTasks, 100, async (task) => await task));
+    await (0, utils_1.timePromise)("Remove images", runLimit(removeTasks));
+    await (0, utils_1.timePromise)("Generate images", runLimit(generateTasks));
     await (0, utils_1.timePromise)("Generate JSON", (0, json_1.generateJson)(buildDir, pageUrl, allImages));
     await (0, utils_1.timePromise)("Generate README", (0, markdown_1.generateMarkdown)(buildDir, allImages));
     core.notice(`Removed ${removeTasks.length} images`);
