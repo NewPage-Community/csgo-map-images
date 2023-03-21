@@ -17,6 +17,30 @@ import {
 import { DispatchInputs } from "./types";
 import { getFilesInDir, ensureDir, listEntries, timePromise } from "./utils";
 
+const promiseAllWithLimit = (tasks: Promise<any>[], limit: number) => {
+  return new Promise((resolve, reject) => {
+    const results: unknown[] = [];
+    let currentIndex = 0;
+    async function executeTask(index: number): Promise<void> {
+      try {
+        const result = await tasks[index];
+        results[index] = result;
+        currentIndex++;
+        if (currentIndex < tasks.length) {
+          await executeTask(currentIndex);
+        } else if (results.length === tasks.length) {
+          resolve(results);
+        }
+      } catch (error) {
+        reject(error);
+      }
+    }
+    for (let i = 0; i < Math.min(limit, tasks.length); i++) {
+      executeTask(currentIndex++);
+    }
+  });
+};
+
 export const run = async () => {
   const token = core.getInput("token");
 
@@ -103,8 +127,8 @@ export const run = async () => {
 
   await ensureDir(buildDir);
 
-  await timePromise("Remove images", Promise.all(removeTasks));
-  await timePromise("Generate images", Promise.all(generateTasks));
+  await timePromise("Remove images", promiseAllWithLimit(removeTasks, 100));
+  await timePromise("Generate images", promiseAllWithLimit(generateTasks, 100));
 
   await timePromise("Generate JSON", generateJson(buildDir, pageUrl, allImages));
   await timePromise("Generate README", generateMarkdown(buildDir, allImages));
