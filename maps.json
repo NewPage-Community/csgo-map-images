@@ -370,6 +370,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/bkz_zephyr_v2.webp"
   },
   {
+    "name": "blackwidow_ren",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/blackwidow_ren.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/blackwidow_ren.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/blackwidow_ren.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/blackwidow_ren.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/blackwidow_ren.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/blackwidow_ren.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/blackwidow_ren.webp"
+  },
+  {
     "name": "cs_agency",
     "src": "https://newpage-community.github.io/csgo-map-images/images/cs_agency.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/cs_agency.jpg",
