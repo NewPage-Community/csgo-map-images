@@ -12540,16 +12540,6 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_games_v2_1.webp"
   },
   {
-    "name": "ze_gameshow_v1_2_csgo1",
-    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_gameshow_v1_2_csgo1.jpg",
-    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_gameshow_v1_2_csgo1.jpg",
-    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_gameshow_v1_2_csgo1.jpg",
-    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_gameshow_v1_2_csgo1.jpg",
-    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_gameshow_v1_2_csgo1.webp",
-    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_gameshow_v1_2_csgo1.webp",
-    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_gameshow_v1_2_csgo1.webp"
-  },
-  {
     "name": "ze_genso_of_last_v3_4_t1",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_genso_of_last_v3_4_t1.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_genso_of_last_v3_4_t1.jpg",
@@ -15330,14 +15320,14 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_star_wars_prequel_f1.webp"
   },
   {
-    "name": "ze_stardust_a02",
-    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_stardust_a02.jpg",
-    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_stardust_a02.jpg",
-    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_stardust_a02.jpg",
-    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_stardust_a02.jpg",
-    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_stardust_a02.webp",
-    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_stardust_a02.webp",
-    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_stardust_a02.webp"
+    "name": "ze_stardust_a03",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_stardust_a03.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_stardust_a03.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_stardust_a03.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_stardust_a03.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_stardust_a03.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_stardust_a03.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_stardust_a03.webp"
   },
   {
     "name": "ze_stargate_escape_v8_p2",
