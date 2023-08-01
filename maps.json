@@ -11280,14 +11280,14 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_boatescape101_p.webp"
   },
   {
-    "name": "ze_boatescape888_v1_5",
-    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_boatescape888_v1_5.jpg",
-    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_boatescape888_v1_5.jpg",
-    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_boatescape888_v1_5.jpg",
-    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_boatescape888_v1_5.jpg",
-    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_boatescape888_v1_5.webp",
-    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_boatescape888_v1_5.webp",
-    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_boatescape888_v1_5.webp"
+    "name": "ze_boatescape888_v1_8",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_boatescape888_v1_8.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_boatescape888_v1_8.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_boatescape888_v1_8.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_boatescape888_v1_8.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_boatescape888_v1_8.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_boatescape888_v1_8.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_boatescape888_v1_8.webp"
   },
   {
     "name": "ze_boatescape999_v5",
@@ -11448,6 +11448,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_ccc_ffvii_alien_reactor.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_ccc_ffvii_alien_reactor.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_ccc_ffvii_alien_reactor.webp"
+  },
+  {
+    "name": "ze_chandrila_go",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_chandrila_go.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_chandrila_go.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_chandrila_go.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_chandrila_go.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_chandrila_go.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_chandrila_go.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_chandrila_go.webp"
   },
   {
     "name": "ze_chaos_v7_7",
