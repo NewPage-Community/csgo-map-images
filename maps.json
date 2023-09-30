@@ -10800,6 +10800,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_ancient_wrath_v2_test27_m5.webp"
   },
   {
+    "name": "ze_animu_v2_final",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_animu_v2_final.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_animu_v2_final.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_animu_v2_final.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_animu_v2_final.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_animu_v2_final.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_animu_v2_final.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_animu_v2_final.webp"
+  },
+  {
     "name": "ze_antartika_p3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_antartika_p3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_antartika_p3.jpg",
@@ -14468,6 +14478,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_phantasy_escape_p3.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_phantasy_escape_p3.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_phantasy_escape_p3.webp"
+  },
+  {
+    "name": "ze_pidaras_va2",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_pidaras_va2.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_pidaras_va2.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_pidaras_va2.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_pidaras_va2.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_pidaras_va2.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_pidaras_va2.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_pidaras_va2.webp"
   },
   {
     "name": "ze_pirates_port_royal_v5_6",
