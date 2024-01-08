@@ -16390,6 +16390,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_volcano_escape_p2.webp"
   },
   {
+    "name": "ze_voodoo_christmas_v1_1",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_voodoo_christmas_v1_1.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_voodoo_christmas_v1_1.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_voodoo_christmas_v1_1.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_voodoo_christmas_v1_1.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_voodoo_christmas_v1_1.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_voodoo_christmas_v1_1.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_voodoo_christmas_v1_1.webp"
+  },
+  {
     "name": "ze_voodoo_islands_p5",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_voodoo_islands_p5.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_voodoo_islands_p5.jpg",
