@@ -52,7 +52,7 @@ def getVauffMapImageURL(map, appId):
 
 # Get image from url
 def getImage(map):
-    url = getVauffMapImageURL(map, 730)
+    url = getVauffMapImageURL(map, "730_cs2")
     # Check url empty
     if (url == ''):
         print(f"{map} not found")
@@ -61,7 +61,7 @@ def getImage(map):
     image = Image.open(response)
     # Get image resolution from stream
     width, height = image.size
-    if (width != 1920 or height != 1080):
+    if (width < 1920):
         print(f"{map} image is not 1920x1080")
         return
     # Save image to file
@@ -69,7 +69,7 @@ def getImage(map):
     image.save(f"../images/{map}.jpg")
 
 # Init Thead pool
-pool = ThreadPool(10)
+pool = ThreadPool(50)
 
 # Read map & match the image
 mapList = []
