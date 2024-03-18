@@ -11490,6 +11490,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_bowser_in_the_fire_sea_v1e_rs2.webp"
   },
   {
+    "name": "ze_box_defend_v1_4",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_box_defend_v1_4.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_box_defend_v1_4.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_box_defend_v1_4.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_box_defend_v1_4.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_box_defend_v1_4.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_box_defend_v1_4.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_box_defend_v1_4.webp"
+  },
+  {
     "name": "ze_bp-infested-prison_p2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_bp-infested-prison_p2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_bp-infested-prison_p2.jpg",
@@ -11688,6 +11698,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_chroma_k1.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_chroma_k1.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_chroma_k1.webp"
+  },
+  {
+    "name": "ze_chronicle",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_chronicle.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_chronicle.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_chronicle.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_chronicle.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_chronicle.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_chronicle.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_chronicle.webp"
   },
   {
     "name": "ze_chronus_a1",
@@ -12310,6 +12330,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_elevator_escape_p3.webp"
   },
   {
+    "name": "ze_emerald",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_emerald.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_emerald.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_emerald.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_emerald.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_emerald.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_emerald.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_emerald.webp"
+  },
+  {
     "name": "ze_emerald_b3_f1",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_emerald_b3_f1.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_emerald_b3_f1.jpg",
@@ -12858,6 +12888,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_frozen_abyss_v1_2.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_frozen_abyss_v1_2.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_frozen_abyss_v1_2.webp"
+  },
+  {
+    "name": "ze_frozentemple_cs2",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_frozentemple_cs2.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_frozentemple_cs2.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_frozentemple_cs2.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_frozentemple_cs2.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_frozentemple_cs2.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_frozentemple_cs2.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_frozentemple_cs2.webp"
   },
   {
     "name": "ze_frozentemple_rc1_1",
@@ -14118,6 +14158,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_minecraft_run_a1_fix8.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_minecraft_run_a1_fix8.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_minecraft_run_a1_fix8.webp"
+  },
+  {
+    "name": "ze_minecraft_sakura",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_minecraft_sakura.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_minecraft_sakura.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_minecraft_sakura.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_minecraft_sakura.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_minecraft_sakura.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_minecraft_sakura.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_minecraft_sakura.webp"
   },
   {
     "name": "ze_minecraft_universe_v1_5",
