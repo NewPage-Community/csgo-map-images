@@ -16240,6 +16240,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_stalkermonolit_v8gofix1.webp"
   },
   {
+    "name": "ze_stalkermonolith",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_stalkermonolith.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_stalkermonolith.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_stalkermonolith.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_stalkermonolith.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_stalkermonolith.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_stalkermonolith.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_stalkermonolith.webp"
+  },
+  {
     "name": "ze_standart_map_csgo_b1",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_standart_map_csgo_b1.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_standart_map_csgo_b1.jpg",
