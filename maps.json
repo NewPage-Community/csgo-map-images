@@ -17120,6 +17120,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_vertigo_militia_b1_3_12.webp"
   },
   {
+    "name": "ze_vietnam_p",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_vietnam_p.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_vietnam_p.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_vietnam_p.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_vietnam_p.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_vietnam_p.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_vietnam_p.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_vietnam_p.webp"
+  },
+  {
     "name": "ze_vietnam_p3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_vietnam_p3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_vietnam_p3.jpg",
