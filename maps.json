@@ -13070,6 +13070,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_greencity_fix.webp"
   },
   {
+    "name": "ze_greencity_p",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_greencity_p.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_greencity_p.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_greencity_p.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_greencity_p.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_greencity_p.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_greencity_p.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_greencity_p.webp"
+  },
+  {
     "name": "ze_gris_v1_13",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_gris_v1_13.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_gris_v1_13.jpg",
