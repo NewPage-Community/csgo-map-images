@@ -11090,6 +11090,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_aware_v1_2a.webp"
   },
   {
+    "name": "ze_azathoth_p",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_azathoth_p.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_azathoth_p.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_azathoth_p.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_azathoth_p.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_azathoth_p.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_azathoth_p.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_azathoth_p.webp"
+  },
+  {
     "name": "ze_aztec_temple_p2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_aztec_temple_p2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_aztec_temple_p2.jpg",
