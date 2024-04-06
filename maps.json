@@ -12570,6 +12570,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_fapescape_katrina_v1_7.webp"
   },
   {
+    "name": "ze_fapescape_p",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_fapescape_p.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_fapescape_p.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_fapescape_p.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_fapescape_p.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_fapescape_p.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_fapescape_p.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_fapescape_p.webp"
+  },
+  {
     "name": "ze_fapescape_p5",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_fapescape_p5.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_fapescape_p5.jpg",
@@ -16108,6 +16118,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_shroomforest3_p.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_shroomforest3_p.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_shroomforest3_p.webp"
+  },
+  {
+    "name": "ze_shroomforest_p",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_shroomforest_p.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_shroomforest_p.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_shroomforest_p.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_shroomforest_p.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_shroomforest_p.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_shroomforest_p.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_shroomforest_p.webp"
   },
   {
     "name": "ze_shroomforest_p6",
