@@ -15920,6 +15920,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_rush_b_v1_4.webp"
   },
   {
+    "name": "ze_s_a_m",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_s_a_m.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_s_a_m.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_s_a_m.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_s_a_m.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_s_a_m.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_s_a_m.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_s_a_m.webp"
+  },
+  {
     "name": "ze_s_a_m_v1_7",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_s_a_m_v1_7.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_s_a_m_v1_7.jpg",
@@ -16588,6 +16598,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_super_metroid_v4.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_super_metroid_v4.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_super_metroid_v4.webp"
+  },
+  {
+    "name": "ze_super_smash_bros",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_super_smash_bros.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_super_smash_bros.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_super_smash_bros.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_super_smash_bros.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_super_smash_bros.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_super_smash_bros.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_super_smash_bros.webp"
   },
   {
     "name": "ze_supershitshow_a2",
