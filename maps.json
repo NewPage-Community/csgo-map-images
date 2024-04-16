@@ -16600,6 +16600,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_suchirifu_v3_h.webp"
   },
   {
+    "name": "ze_sumai_facility_lite",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_sumai_facility_lite.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_sumai_facility_lite.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_sumai_facility_lite.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_sumai_facility_lite.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_sumai_facility_lite.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_sumai_facility_lite.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_sumai_facility_lite.webp"
+  },
+  {
     "name": "ze_sumai_facility_v1a",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_sumai_facility_v1a.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_sumai_facility_v1a.jpg",
