@@ -10660,6 +10660,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_30_seconds__b21_p2.webp"
   },
   {
+    "name": "ze_8bit",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_8bit.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_8bit.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_8bit.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_8bit.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_8bit.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_8bit.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_8bit.webp"
+  },
+  {
     "name": "ze_8bit_csgo3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_8bit_csgo3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_8bit_csgo3.jpg",
@@ -11518,6 +11528,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_boatescape_extendido_p4.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_boatescape_extendido_p4.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_boatescape_extendido_p4.webp"
+  },
+  {
+    "name": "ze_boatescape_ultimate",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_boatescape_ultimate.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_boatescape_ultimate.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_boatescape_ultimate.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_boatescape_ultimate.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_boatescape_ultimate.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_boatescape_ultimate.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_boatescape_ultimate.webp"
   },
   {
     "name": "ze_boatescape_ultimate_t2f5",
@@ -16688,16 +16708,6 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_super_metroid_v4.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_super_metroid_v4.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_super_metroid_v4.webp"
-  },
-  {
-    "name": "ze_super_smash_bros",
-    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_super_smash_bros.jpg",
-    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_super_smash_bros.jpg",
-    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_super_smash_bros.jpg",
-    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_super_smash_bros.jpg",
-    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_super_smash_bros.webp",
-    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_super_smash_bros.webp",
-    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_super_smash_bros.webp"
   },
   {
     "name": "ze_supershitshow_a2",
