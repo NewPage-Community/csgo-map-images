@@ -10960,6 +10960,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_aragami_p.webp"
   },
   {
+    "name": "ze_arcana_heart",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_arcana_heart.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_arcana_heart.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_arcana_heart.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_arcana_heart.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_arcana_heart.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_arcana_heart.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_arcana_heart.webp"
+  },
+  {
     "name": "ze_arcana_heart_v1_5",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_arcana_heart_v1_5.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_arcana_heart_v1_5.jpg",
