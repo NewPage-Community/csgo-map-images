@@ -10930,6 +10930,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_aot_trost_v8_3.webp"
   },
   {
+    "name": "ze_aperturescience_p",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_aperturescience_p.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_aperturescience_p.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_aperturescience_p.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_aperturescience_p.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_aperturescience_p.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_aperturescience_p.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_aperturescience_p.webp"
+  },
+  {
     "name": "ze_aperturescience_p2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_aperturescience_p2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_aperturescience_p2.jpg",
@@ -11138,6 +11148,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_avalanche_reboot_k1.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_avalanche_reboot_k1.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_avalanche_reboot_k1.webp"
+  },
+  {
+    "name": "ze_aware",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_aware.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_aware.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_aware.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_aware.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_aware.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_aware.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_aware.webp"
   },
   {
     "name": "ze_aware_v1_2a",
@@ -12168,6 +12188,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_dear_v1.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_dear_v1.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_dear_v1.webp"
+  },
+  {
+    "name": "ze_death_star_escape_p",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_death_star_escape_p.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_death_star_escape_p.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_death_star_escape_p.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_death_star_escape_p.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_death_star_escape_p.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_death_star_escape_p.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_death_star_escape_p.webp"
   },
   {
     "name": "ze_death_star_escape_v4_3_p2",
