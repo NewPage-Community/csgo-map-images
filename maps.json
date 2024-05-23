@@ -13870,16 +13870,6 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_italy_town_p2.webp"
   },
   {
-    "name": "ze_jiangnan_town_cs2",
-    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_jiangnan_town_cs2.jpg",
-    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_jiangnan_town_cs2.jpg",
-    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_jiangnan_town_cs2.jpg",
-    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_jiangnan_town_cs2.jpg",
-    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_jiangnan_town_cs2.webp",
-    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_jiangnan_town_cs2.webp",
-    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_jiangnan_town_cs2.webp"
-  },
-  {
     "name": "ze_jiangnan_town_v3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_jiangnan_town_v3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_jiangnan_town_v3.jpg",
@@ -13888,6 +13878,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_jiangnan_town_v3.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_jiangnan_town_v3.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_jiangnan_town_v3.webp"
+  },
+  {
+    "name": "ze_jiangnan_town_v3_1",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_jiangnan_town_v3_1.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_jiangnan_town_v3_1.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_jiangnan_town_v3_1.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_jiangnan_town_v3_1.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_jiangnan_town_v3_1.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_jiangnan_town_v3_1.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_jiangnan_town_v3_1.webp"
   },
   {
     "name": "ze_jiba_journey_v4_3",
