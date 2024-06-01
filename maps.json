@@ -15960,6 +15960,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_randomizer_c1.webp"
   },
   {
+    "name": "ze_ratatouille",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_ratatouille.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_ratatouille.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_ratatouille.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_ratatouille.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_ratatouille.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_ratatouille.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_ratatouille.webp"
+  },
+  {
     "name": "ze_ratescape_v5_4",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_ratescape_v5_4.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_ratescape_v5_4.jpg",
