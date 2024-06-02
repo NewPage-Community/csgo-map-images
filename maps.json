@@ -15400,6 +15400,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_outlast_v2_cm1_fix1.webp"
   },
   {
+    "name": "ze_overlord",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_overlord.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_overlord.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_overlord.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_overlord.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_overlord.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_overlord.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_overlord.webp"
+  },
+  {
     "name": "ze_overlord_a4",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_overlord_a4.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_overlord_a4.jpg",
@@ -17758,6 +17768,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_vietnam_p3.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_vietnam_p3.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_vietnam_p3.webp"
+  },
+  {
+    "name": "ze_visualizer",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_visualizer.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_visualizer.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_visualizer.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_visualizer.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_visualizer.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_visualizer.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_visualizer.webp"
   },
   {
     "name": "ze_visualizer_v2_1",
