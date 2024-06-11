@@ -13700,6 +13700,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_huge_labo_escape_b1_3.webp"
   },
   {
+    "name": "ze_hydroponic_garden",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_hydroponic_garden.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_hydroponic_garden.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_hydroponic_garden.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_hydroponic_garden.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_hydroponic_garden.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_hydroponic_garden.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_hydroponic_garden.webp"
+  },
+  {
     "name": "ze_hydroponic_garden_v1_1",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_hydroponic_garden_v1_1.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_hydroponic_garden_v1_1.jpg",
