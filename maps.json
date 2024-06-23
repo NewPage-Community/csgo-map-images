@@ -16680,6 +16680,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_siberia_1990_v1_2c_p5.webp"
   },
   {
+    "name": "ze_silent_hill_2_illusion",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_silent_hill_2_illusion.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_silent_hill_2_illusion.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_silent_hill_2_illusion.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_silent_hill_2_illusion.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_silent_hill_2_illusion.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_silent_hill_2_illusion.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_silent_hill_2_illusion.webp"
+  },
+  {
     "name": "ze_silent_hill_2_illusion_b5",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_silent_hill_2_illusion_b5.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_silent_hill_2_illusion_b5.jpg",
