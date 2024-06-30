@@ -17750,6 +17750,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_ubermenschen_b2.webp"
   },
   {
+    "name": "ze_uchiha_legacy",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_uchiha_legacy.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_uchiha_legacy.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_uchiha_legacy.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_uchiha_legacy.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_uchiha_legacy.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_uchiha_legacy.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_uchiha_legacy.webp"
+  },
+  {
     "name": "ze_uchiha_legacy_cm2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_uchiha_legacy_cm2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_uchiha_legacy_cm2.jpg",
