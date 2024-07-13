@@ -10920,6 +10920,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_aoraitsu_r6f.webp"
   },
   {
+    "name": "ze_aoraitsu_reloaded",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_aoraitsu_reloaded.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_aoraitsu_reloaded.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_aoraitsu_reloaded.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_aoraitsu_reloaded.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_aoraitsu_reloaded.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_aoraitsu_reloaded.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_aoraitsu_reloaded.webp"
+  },
+  {
     "name": "ze_aot_trost_v6_1",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_aot_trost_v6_1.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_aot_trost_v6_1.jpg",
