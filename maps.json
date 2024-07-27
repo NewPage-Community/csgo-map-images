@@ -10740,6 +10740,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_abandoned_project_v1_2_csgo.webp"
   },
   {
+    "name": "ze_act_character_relic",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_act_character_relic.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_act_character_relic.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_act_character_relic.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_act_character_relic.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_act_character_relic.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_act_character_relic.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_act_character_relic.webp"
+  },
+  {
     "name": "ze_action_plan_hurricane_a2fix4_1",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_action_plan_hurricane_a2fix4_1.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_action_plan_hurricane_a2fix4_1.jpg",
