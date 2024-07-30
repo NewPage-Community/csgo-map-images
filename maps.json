@@ -12080,6 +12080,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_colors_p3.webp"
   },
   {
+    "name": "ze_compound_escape",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_compound_escape.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_compound_escape.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_compound_escape.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_compound_escape.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_compound_escape.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_compound_escape.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_compound_escape.webp"
+  },
+  {
     "name": "ze_core_v2a",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_core_v2a.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_core_v2a.jpg",
@@ -14440,6 +14450,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_little_trip_k.webp"
   },
   {
+    "name": "ze_loom",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_loom.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_loom.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_loom.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_loom.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_loom.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_loom.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_loom.webp"
+  },
+  {
     "name": "ze_lostclue_b3_3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_lostclue_b3_3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_lostclue_b3_3.jpg",
@@ -14568,6 +14588,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_lotr_mount_doom_p3.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_lotr_mount_doom_p3.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_lotr_mount_doom_p3.webp"
+  },
+  {
+    "name": "ze_luciddreams_cs2",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_luciddreams_cs2.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_luciddreams_cs2.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_luciddreams_cs2.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_luciddreams_cs2.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_luciddreams_cs2.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_luciddreams_cs2.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_luciddreams_cs2.webp"
   },
   {
     "name": "ze_luciddreams_csgo3",
@@ -18258,6 +18288,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_watagi_tunnel_v2_1.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_watagi_tunnel_v2_1.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_watagi_tunnel_v2_1.webp"
+  },
+  {
+    "name": "ze_wicked_organization",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_wicked_organization.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_wicked_organization.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_wicked_organization.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_wicked_organization.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_wicked_organization.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_wicked_organization.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_wicked_organization.webp"
   },
   {
     "name": "ze_winter_warehouse_p",
