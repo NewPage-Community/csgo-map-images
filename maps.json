@@ -10910,6 +10910,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_antfarm_2v.webp"
   },
   {
+    "name": "ze_anzalone_remake",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_anzalone_remake.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_anzalone_remake.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_anzalone_remake.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_anzalone_remake.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_anzalone_remake.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_anzalone_remake.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_anzalone_remake.webp"
+  },
+  {
     "name": "ze_aooka_v3_t6",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_aooka_v3_t6.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_aooka_v3_t6.jpg",
@@ -17428,6 +17438,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_surf_sahok_p3.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_surf_sahok_p3.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_surf_sahok_p3.webp"
+  },
+  {
+    "name": "ze_surf_saltfish",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_saltfish.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_saltfish.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_surf_saltfish.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_surf_saltfish.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_surf_saltfish.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_surf_saltfish.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_surf_saltfish.webp"
   },
   {
     "name": "ze_surf_shonyudo_v6_1_final_fix",
