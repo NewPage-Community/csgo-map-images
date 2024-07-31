@@ -12090,6 +12090,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_compound_escape.webp"
   },
   {
+    "name": "ze_conflict",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_conflict.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_conflict.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_conflict.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_conflict.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_conflict.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_conflict.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_conflict.webp"
+  },
+  {
     "name": "ze_core_v2a",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_core_v2a.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_core_v2a.jpg",
@@ -12228,6 +12238,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_cyberspace_v1.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_cyberspace_v1.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_cyberspace_v1.webp"
+  },
+  {
+    "name": "ze_dabadeedabadie",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_dabadeedabadie.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_dabadeedabadie.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_dabadeedabadie.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_dabadeedabadie.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_dabadeedabadie.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_dabadeedabadie.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_dabadeedabadie.webp"
   },
   {
     "name": "ze_dangerous_waters_p",
@@ -17470,6 +17490,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_surf_outside_b1_10.webp"
   },
   {
+    "name": "ze_surf_sahok",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_sahok.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_sahok.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_surf_sahok.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_surf_sahok.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_surf_sahok.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_surf_sahok.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_surf_sahok.webp"
+  },
+  {
     "name": "ze_surf_sahok_p3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_sahok_p3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_sahok_p3.jpg",
@@ -18338,6 +18368,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_world_escapes_v1.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_world_escapes_v1.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_world_escapes_v1.webp"
+  },
+  {
+    "name": "ze_xenovation",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_xenovation.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_xenovation.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_xenovation.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_xenovation.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_xenovation.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_xenovation.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_xenovation.webp"
   },
   {
     "name": "ze_yueyingchuanshuo",
