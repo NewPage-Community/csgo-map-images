@@ -13160,6 +13160,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_ffxiv_reisen_temple.webp"
   },
   {
+    "name": "ze_ffxiv_the_orbonne_monastery_test6",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_ffxiv_the_orbonne_monastery_test6.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_ffxiv_the_orbonne_monastery_test6.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_ffxiv_the_orbonne_monastery_test6.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_ffxiv_the_orbonne_monastery_test6.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_ffxiv_the_orbonne_monastery_test6.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_ffxiv_the_orbonne_monastery_test6.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_ffxiv_the_orbonne_monastery_test6.webp"
+  },
+  {
     "name": "ze_ffxiv_wanderers_palace_v4_10",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_ffxiv_wanderers_palace_v4_10.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_ffxiv_wanderers_palace_v4_10.jpg",
@@ -16980,6 +16990,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_silent_hill_2_illusion_b5.webp"
   },
   {
+    "name": "ze_silent_hill_3_dawn",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_silent_hill_3_dawn.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_silent_hill_3_dawn.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_silent_hill_3_dawn.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_silent_hill_3_dawn.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_silent_hill_3_dawn.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_silent_hill_3_dawn.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_silent_hill_3_dawn.webp"
+  },
+  {
     "name": "ze_silent_hill_3_dawn_full_t3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_silent_hill_3_dawn_full_t3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_silent_hill_3_dawn_full_t3.jpg",
@@ -16998,6 +17018,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_silent_hill_3_dawn_v2.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_silent_hill_3_dawn_v2.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_silent_hill_3_dawn_v2.webp"
+  },
+  {
+    "name": "ze_silent_hill_3_flee",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_silent_hill_3_flee.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_silent_hill_3_flee.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_silent_hill_3_flee.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_silent_hill_3_flee.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_silent_hill_3_flee.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_silent_hill_3_flee.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_silent_hill_3_flee.webp"
   },
   {
     "name": "ze_silent_hill_3_flee_v4",
