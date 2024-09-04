@@ -15240,6 +15240,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_mountain_escape_csgo2.webp"
   },
   {
+    "name": "ze_mountain_escape_snow",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_mountain_escape_snow.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_mountain_escape_snow.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_mountain_escape_snow.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_mountain_escape_snow.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_mountain_escape_snow.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_mountain_escape_snow.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_mountain_escape_snow.webp"
+  },
+  {
     "name": "ze_mountain_escape_snow_v7",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_mountain_escape_snow_v7.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_mountain_escape_snow_v7.jpg",
