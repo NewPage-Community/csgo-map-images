@@ -18460,6 +18460,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_tyranny2_v1_csgo2.webp"
   },
   {
+    "name": "ze_tyranny_cs2",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_tyranny_cs2.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_tyranny_cs2.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_tyranny_cs2.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_tyranny_cs2.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_tyranny_cs2.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_tyranny_cs2.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_tyranny_cs2.webp"
+  },
+  {
     "name": "ze_tyranny_v5_go3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_tyranny_v5_go3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_tyranny_v5_go3.jpg",
