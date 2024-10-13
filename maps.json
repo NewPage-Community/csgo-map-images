@@ -670,6 +670,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_facade.webp"
   },
   {
+    "name": "de_genshin_impact_wangshu",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_genshin_impact_wangshu.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_genshin_impact_wangshu.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_genshin_impact_wangshu.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_genshin_impact_wangshu.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_genshin_impact_wangshu.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_genshin_impact_wangshu.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_genshin_impact_wangshu.webp"
+  },
+  {
     "name": "de_inferno",
     "src": "https://newpage-community.github.io/csgo-map-images/images/de_inferno.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/de_inferno.jpg",
