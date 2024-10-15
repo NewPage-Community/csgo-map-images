@@ -16250,6 +16250,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_parkers_pit_p.webp"
   },
   {
+    "name": "ze_parking_cs2",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_parking_cs2.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_parking_cs2.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_parking_cs2.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_parking_cs2.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_parking_cs2.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_parking_cs2.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_parking_cs2.webp"
+  },
+  {
     "name": "ze_parking_p4",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_parking_p4.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_parking_p4.jpg",
