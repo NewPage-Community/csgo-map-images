@@ -17290,6 +17290,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_shroomforest3_p.webp"
   },
   {
+    "name": "ze_shroomforest3_z",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_shroomforest3_z.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_shroomforest3_z.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_shroomforest3_z.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_shroomforest3_z.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_shroomforest3_z.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_shroomforest3_z.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_shroomforest3_z.webp"
+  },
+  {
     "name": "ze_shroomforest_p",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_shroomforest_p.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_shroomforest_p.jpg",
