@@ -18230,6 +18230,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_taboo_carnation_v2_ps2.webp"
   },
   {
+    "name": "ze_tear_of_tide",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_tear_of_tide.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_tear_of_tide.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_tear_of_tide.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_tear_of_tide.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_tear_of_tide.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_tear_of_tide.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_tear_of_tide.webp"
+  },
+  {
     "name": "ze_teletraan_v1",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_teletraan_v1.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_teletraan_v1.jpg",
