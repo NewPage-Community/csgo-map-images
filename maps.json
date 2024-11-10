@@ -12560,6 +12560,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_defense3002_p.webp"
   },
   {
+    "name": "ze_depths",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_depths.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_depths.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_depths.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_depths.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_depths.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_depths.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_depths.webp"
+  },
+  {
     "name": "ze_descent_into_cerberon_b2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_descent_into_cerberon_b2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_descent_into_cerberon_b2.jpg",
