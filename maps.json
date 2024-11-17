@@ -16480,6 +16480,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_pc_v1_2.webp"
   },
   {
+    "name": "ze_pd2_crime_art",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_pd2_crime_art.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_pd2_crime_art.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_pd2_crime_art.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_pd2_crime_art.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_pd2_crime_art.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_pd2_crime_art.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_pd2_crime_art.webp"
+  },
+  {
     "name": "ze_pd2_crime_art_v2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_pd2_crime_art_v2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_pd2_crime_art_v2.jpg",
