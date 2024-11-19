@@ -14260,6 +14260,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_ice_cavern_va4.webp"
   },
   {
+    "name": "ze_ice_cavern_z",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_ice_cavern_z.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_ice_cavern_z.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_ice_cavern_z.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_ice_cavern_z.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_ice_cavern_z.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_ice_cavern_z.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_ice_cavern_z.webp"
+  },
+  {
     "name": "ze_ice_hold_p2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_ice_hold_p2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_ice_hold_p2.jpg",
