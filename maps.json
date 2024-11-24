@@ -400,6 +400,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/cs_assault.webp"
   },
   {
+    "name": "cs_assult_classic",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/cs_assult_classic.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/cs_assult_classic.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/cs_assult_classic.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/cs_assult_classic.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/cs_assult_classic.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/cs_assult_classic.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/cs_assult_classic.webp"
+  },
+  {
     "name": "cs_backalley",
     "src": "https://newpage-community.github.io/csgo-map-images/images/cs_backalley.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/cs_backalley.jpg",
@@ -560,6 +570,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_aztec.webp"
   },
   {
+    "name": "de_aztec_classic",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_aztec_classic.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_aztec_classic.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_aztec_classic.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_aztec_classic.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_aztec_classic.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_aztec_classic.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_aztec_classic.webp"
+  },
+  {
     "name": "de_bank",
     "src": "https://newpage-community.github.io/csgo-map-images/images/de_bank.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/de_bank.jpg",
@@ -648,6 +668,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_dust2.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_dust2.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_dust2.webp"
+  },
+  {
+    "name": "de_dust2_classic",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_dust2_classic.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_dust2_classic.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_dust2_classic.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_dust2_classic.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_dust2_classic.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_dust2_classic.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_dust2_classic.webp"
   },
   {
     "name": "de_empire",
@@ -878,6 +908,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_sugarcane.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_sugarcane.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_sugarcane.webp"
+  },
+  {
+    "name": "de_survivor_classic_m",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_survivor_classic_m.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_survivor_classic_m.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_survivor_classic_m.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_survivor_classic_m.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_survivor_classic_m.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_survivor_classic_m.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_survivor_classic_m.webp"
   },
   {
     "name": "de_train",
