@@ -15470,6 +15470,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_mist_q3.webp"
   },
   {
+    "name": "ze_mochi_island",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_mochi_island.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_mochi_island.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_mochi_island.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_mochi_island.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_mochi_island.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_mochi_island.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_mochi_island.webp"
+  },
+  {
     "name": "ze_mochi_island_f6",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_mochi_island_f6.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_mochi_island_f6.jpg",
