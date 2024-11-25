@@ -17670,6 +17670,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_silent_hill_3_dawn.webp"
   },
   {
+    "name": "ze_silent_hill_3_dawn_full",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_silent_hill_3_dawn_full.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_silent_hill_3_dawn_full.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_silent_hill_3_dawn_full.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_silent_hill_3_dawn_full.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_silent_hill_3_dawn_full.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_silent_hill_3_dawn_full.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_silent_hill_3_dawn_full.webp"
+  },
+  {
     "name": "ze_silent_hill_3_dawn_full_t3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_silent_hill_3_dawn_full_t3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_silent_hill_3_dawn_full_t3.jpg",
