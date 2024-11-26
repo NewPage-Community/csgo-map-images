@@ -18850,6 +18850,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_trainescape_p.webp"
   },
   {
+    "name": "ze_trainsanity",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_trainsanity.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_trainsanity.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_trainsanity.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_trainsanity.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_trainsanity.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_trainsanity.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_trainsanity.webp"
+  },
+  {
     "name": "ze_trend_machine_2_v1_25_f",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_trend_machine_2_v1_25_f.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_trend_machine_2_v1_25_f.jpg",
