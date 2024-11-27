@@ -1160,6 +1160,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_tulip.webp"
   },
   {
+    "name": "de_tuscan_cs16hd",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_tuscan_cs16hd.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_tuscan_cs16hd.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_tuscan_cs16hd.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_tuscan_cs16hd.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_tuscan_cs16hd.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_tuscan_cs16hd.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_tuscan_cs16hd.webp"
+  },
+  {
     "name": "de_vertigo",
     "src": "https://newpage-community.github.io/csgo-map-images/images/de_vertigo.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/de_vertigo.jpg",
@@ -1178,6 +1188,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_zoo.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_zoo.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_zoo.webp"
+  },
+  {
+    "name": "eagle_eye",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/eagle_eye.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/eagle_eye.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/eagle_eye.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/eagle_eye.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/eagle_eye.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/eagle_eye.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/eagle_eye.webp"
   },
   {
     "name": "egypt",
