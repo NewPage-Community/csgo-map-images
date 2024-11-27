@@ -870,6 +870,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_lake.webp"
   },
   {
+    "name": "de_lambdabunker",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_lambdabunker.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_lambdabunker.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_lambdabunker.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_lambdabunker.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_lambdabunker.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_lambdabunker.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_lambdabunker.webp"
+  },
+  {
     "name": "de_log",
     "src": "https://newpage-community.github.io/csgo-map-images/images/de_log.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/de_log.jpg",
