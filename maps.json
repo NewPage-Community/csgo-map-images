@@ -16860,6 +16860,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_percocet_p.webp"
   },
   {
+    "name": "ze_permafrost",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_permafrost.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_permafrost.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_permafrost.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_permafrost.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_permafrost.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_permafrost.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_permafrost.webp"
+  },
+  {
     "name": "ze_phantasy_escape_p3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_phantasy_escape_p3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_phantasy_escape_p3.jpg",
