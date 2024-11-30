@@ -17710,6 +17710,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_scourge_k1.webp"
   },
   {
+    "name": "ze_scp_containment_breach",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_scp_containment_breach.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_scp_containment_breach.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_scp_containment_breach.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_scp_containment_breach.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_scp_containment_breach.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_scp_containment_breach.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_scp_containment_breach.webp"
+  },
+  {
     "name": "ze_scp_containment_breach_k1",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_scp_containment_breach_k1.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_scp_containment_breach_k1.jpg",
