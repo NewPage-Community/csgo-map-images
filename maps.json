@@ -13060,6 +13060,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_drakelord_castle_b3.webp"
   },
   {
+    "name": "ze_dreamin",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_dreamin.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_dreamin.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_dreamin.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_dreamin.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_dreamin.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_dreamin.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_dreamin.webp"
+  },
+  {
     "name": "ze_dreamin_v3_3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_dreamin_v3_3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_dreamin_v3_3.jpg",
