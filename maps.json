@@ -12390,6 +12390,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_christmas_b2_1.webp"
   },
   {
+    "name": "ze_christmas_infection_p",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_christmas_infection_p.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_christmas_infection_p.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_christmas_infection_p.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_christmas_infection_p.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_christmas_infection_p.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_christmas_infection_p.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_christmas_infection_p.webp"
+  },
+  {
     "name": "ze_christmas_infection_p2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_christmas_infection_p2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_christmas_infection_p2.jpg",
