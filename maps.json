@@ -10760,6 +10760,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mp_raid.webp"
   },
   {
+    "name": "ship_ren",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ship_ren.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ship_ren.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ship_ren.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ship_ren.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ship_ren.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ship_ren.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ship_ren.webp"
+  },
+  {
     "name": "skz_bananaysoda_2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/skz_bananaysoda_2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/skz_bananaysoda_2.jpg",
