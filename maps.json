@@ -14360,6 +14360,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_got_the_north_csgo3.webp"
   },
   {
+    "name": "ze_grace",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_grace.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_grace.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_grace.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_grace.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_grace.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_grace.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_grace.webp"
+  },
+  {
     "name": "ze_grand_boatescape_p3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_grand_boatescape_p3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_grand_boatescape_p3.jpg",
@@ -18568,6 +18578,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_stalker_ultimate_v4_9.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_stalker_ultimate_v4_9.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_stalker_ultimate_v4_9.webp"
+  },
+  {
+    "name": "ze_stalker_ultimate_z",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_stalker_ultimate_z.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_stalker_ultimate_z.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_stalker_ultimate_z.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_stalker_ultimate_z.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_stalker_ultimate_z.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_stalker_ultimate_z.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_stalker_ultimate_z.webp"
   },
   {
     "name": "ze_stalkermonolit_v8gofix1",
