@@ -18890,6 +18890,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_surf_gypt_p.webp"
   },
   {
+    "name": "ze_surf_happy",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_happy.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_happy.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_surf_happy.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_surf_happy.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_surf_happy.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_surf_happy.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_surf_happy.webp"
+  },
+  {
     "name": "ze_surf_happy_2_newbie_village_v3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_happy_2_newbie_village_v3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_happy_2_newbie_village_v3.jpg",
@@ -19168,6 +19178,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_texturescape_p2.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_texturescape_p2.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_texturescape_p2.webp"
+  },
+  {
+    "name": "ze_the_curse_of_blackwater",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_the_curse_of_blackwater.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_the_curse_of_blackwater.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_the_curse_of_blackwater.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_the_curse_of_blackwater.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_the_curse_of_blackwater.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_the_curse_of_blackwater.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_the_curse_of_blackwater.webp"
   },
   {
     "name": "ze_the_curse_of_blackwater_v6b",
