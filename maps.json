@@ -12950,6 +12950,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_dark_catharsis_v1_2.webp"
   },
   {
+    "name": "ze_dark_souls",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_dark_souls.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_dark_souls.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_dark_souls.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_dark_souls.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_dark_souls.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_dark_souls.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_dark_souls.webp"
+  },
+  {
     "name": "ze_dark_souls_ptd_csgo2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_dark_souls_ptd_csgo2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_dark_souls_ptd_csgo2.jpg",
@@ -16708,6 +16718,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_obj_void_b4_t2.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_obj_void_b4_t2.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_obj_void_b4_t2.webp"
+  },
+  {
+    "name": "ze_obj_void_v1",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_obj_void_v1.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_obj_void_v1.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_obj_void_v1.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_obj_void_v1.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_obj_void_v1.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_obj_void_v1.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_obj_void_v1.webp"
   },
   {
     "name": "ze_ocean_base_escape_p",
