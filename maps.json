@@ -12340,6 +12340,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_boatescapex_b8.webp"
   },
   {
+    "name": "ze_boralus",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_boralus.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_boralus.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_boralus.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_boralus.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_boralus.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_boralus.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_boralus.webp"
+  },
+  {
     "name": "ze_border_b2_fix",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_border_b2_fix.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_border_b2_fix.jpg",
