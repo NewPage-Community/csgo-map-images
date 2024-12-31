@@ -19110,6 +19110,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_surgical_nightmare_v1_b2c.webp"
   },
   {
+    "name": "ze_survivors_mountain",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_survivors_mountain.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_survivors_mountain.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_survivors_mountain.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_survivors_mountain.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_survivors_mountain.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_survivors_mountain.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_survivors_mountain.webp"
+  },
+  {
     "name": "ze_survivors_p2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_survivors_p2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_survivors_p2.jpg",
