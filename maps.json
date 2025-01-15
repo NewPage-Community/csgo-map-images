@@ -60,6 +60,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/arena2.webp"
   },
   {
+    "name": "ascent",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ascent.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ascent.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ascent.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ascent.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ascent.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ascent.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ascent.webp"
+  },
+  {
     "name": "awp_lego_2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/awp_lego_2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/awp_lego_2.jpg",
@@ -1418,6 +1428,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/gd_sugarcane.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/gd_sugarcane.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/gd_sugarcane.webp"
+  },
+  {
+    "name": "haven_recreation",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/haven_recreation.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/haven_recreation.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/haven_recreation.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/haven_recreation.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/haven_recreation.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/haven_recreation.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/haven_recreation.webp"
   },
   {
     "name": "kz_11342",
