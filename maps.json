@@ -13280,6 +13280,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_dnb_realms_a1.webp"
   },
   {
+    "name": "ze_dnd_hydra_z",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_dnd_hydra_z.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_dnd_hydra_z.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_dnd_hydra_z.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_dnd_hydra_z.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_dnd_hydra_z.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_dnd_hydra_z.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_dnd_hydra_z.webp"
+  },
+  {
     "name": "ze_doom3_v2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_doom3_v2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_doom3_v2.jpg",
