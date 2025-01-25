@@ -1800,14 +1800,14 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_amber_od.webp"
   },
   {
-    "name": "kz_ambition",
-    "src": "https://newpage-community.github.io/csgo-map-images/images/kz_ambition.jpg",
-    "full": "https://newpage-community.github.io/csgo-map-images/images/kz_ambition.jpg",
-    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/kz_ambition.jpg",
-    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/kz_ambition.jpg",
-    "webp": "https://newpage-community.github.io/csgo-map-images/webp/kz_ambition.webp",
-    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/kz_ambition.webp",
-    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_ambition.webp"
+    "name": "kz_ambition_fix",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/kz_ambition_fix.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/kz_ambition_fix.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/kz_ambition_fix.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/kz_ambition_fix.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/kz_ambition_fix.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/kz_ambition_fix.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_ambition_fix.webp"
   },
   {
     "name": "kz_ancient_v3",
@@ -10960,14 +10960,14 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/vnl_sewage.webp"
   },
   {
-    "name": "vnl_sewers",
-    "src": "https://newpage-community.github.io/csgo-map-images/images/vnl_sewers.jpg",
-    "full": "https://newpage-community.github.io/csgo-map-images/images/vnl_sewers.jpg",
-    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/vnl_sewers.jpg",
-    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/vnl_sewers.jpg",
-    "webp": "https://newpage-community.github.io/csgo-map-images/webp/vnl_sewers.webp",
-    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/vnl_sewers.webp",
-    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/vnl_sewers.webp"
+    "name": "vnl_sewerage",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/vnl_sewerage.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/vnl_sewerage.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/vnl_sewerage.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/vnl_sewerage.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/vnl_sewerage.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/vnl_sewerage.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/vnl_sewerage.webp"
   },
   {
     "name": "vnl_simplebrickrooms",
