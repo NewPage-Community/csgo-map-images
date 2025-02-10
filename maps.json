@@ -20100,6 +20100,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_venice_escape_p3.webp"
   },
   {
+    "name": "ze_verdant",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_verdant.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_verdant.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_verdant.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_verdant.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_verdant.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_verdant.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_verdant.webp"
+  },
+  {
     "name": "ze_verdant_k",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_verdant_k.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_verdant_k.jpg",
