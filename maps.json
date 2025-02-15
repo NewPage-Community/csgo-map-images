@@ -16100,6 +16100,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_minecraft_adventure_v1_3d.webp"
   },
   {
+    "name": "ze_minecraft_dragon_castle",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_minecraft_dragon_castle.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_minecraft_dragon_castle.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_minecraft_dragon_castle.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_minecraft_dragon_castle.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_minecraft_dragon_castle.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_minecraft_dragon_castle.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_minecraft_dragon_castle.webp"
+  },
+  {
     "name": "ze_minecraft_journey_v1",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_minecraft_journey_v1.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_minecraft_journey_v1.jpg",
