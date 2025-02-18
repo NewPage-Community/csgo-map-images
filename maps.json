@@ -12250,6 +12250,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_blackmesa_remix_p2.webp"
   },
   {
+    "name": "ze_blood_castle",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_blood_castle.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_blood_castle.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_blood_castle.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_blood_castle.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_blood_castle.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_blood_castle.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_blood_castle.webp"
+  },
+  {
     "name": "ze_blood_castle_b7",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_blood_castle_b7.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_blood_castle_b7.jpg",
@@ -18698,6 +18708,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_skygarden_v2_3.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_skygarden_v2_3.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_skygarden_v2_3.webp"
+  },
+  {
+    "name": "ze_skyline",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_skyline.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_skyline.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_skyline.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_skyline.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_skyline.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_skyline.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_skyline.webp"
   },
   {
     "name": "ze_skyscraper_city_p",
