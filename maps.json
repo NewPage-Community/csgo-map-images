@@ -16440,6 +16440,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_negative_legacy_va2.webp"
   },
   {
+    "name": "ze_neko_canyon_p",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_neko_canyon_p.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_neko_canyon_p.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_neko_canyon_p.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_neko_canyon_p.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_neko_canyon_p.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_neko_canyon_p.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_neko_canyon_p.webp"
+  },
+  {
     "name": "ze_neko_canyon_p3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_neko_canyon_p3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_neko_canyon_p3.jpg",
