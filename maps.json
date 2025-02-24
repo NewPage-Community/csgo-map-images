@@ -14170,6 +14170,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_floating_rocks_survival_csgo_v3.webp"
   },
   {
+    "name": "ze_flowering",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_flowering.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_flowering.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_flowering.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_flowering.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_flowering.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_flowering.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_flowering.webp"
+  },
+  {
     "name": "ze_flying_world",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_flying_world.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_flying_world.jpg",
