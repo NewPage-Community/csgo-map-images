@@ -16240,6 +16240,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_mirrors_edge_reborn_p3.webp"
   },
   {
+    "name": "ze_miside",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_miside.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_miside.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_miside.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_miside.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_miside.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_miside.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_miside.webp"
+  },
+  {
     "name": "ze_mist_p",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_mist_p.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_mist_p.jpg",
