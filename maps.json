@@ -19320,6 +19320,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_surf_okitsu_shonyudo.webp"
   },
   {
+    "name": "ze_surf_outside",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_outside.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_outside.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_surf_outside.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_surf_outside.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_surf_outside.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_surf_outside.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_surf_outside.webp"
+  },
+  {
     "name": "ze_surf_outside_b1_10",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_outside_b1_10.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_outside_b1_10.jpg",
