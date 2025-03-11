@@ -17200,6 +17200,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_outbreak_v2_1_p.webp"
   },
   {
+    "name": "ze_outlast",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_outlast.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_outlast.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_outlast.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_outlast.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_outlast.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_outlast.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_outlast.webp"
+  },
+  {
     "name": "ze_outlast_v2_cm1_fix1",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_outlast_v2_cm1_fix1.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_outlast_v2_cm1_fix1.jpg",
