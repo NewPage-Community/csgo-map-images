@@ -17000,6 +17000,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_obj_void_v1.webp"
   },
   {
+    "name": "ze_ocarina_of_time",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_ocarina_of_time.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_ocarina_of_time.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_ocarina_of_time.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_ocarina_of_time.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_ocarina_of_time.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_ocarina_of_time.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_ocarina_of_time.webp"
+  },
+  {
     "name": "ze_ocean_base_escape_p",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_ocean_base_escape_p.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_ocean_base_escape_p.jpg",
