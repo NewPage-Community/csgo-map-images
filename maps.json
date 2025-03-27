@@ -12050,6 +12050,26 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_bh3rd_babel_z.webp"
   },
   {
+    "name": "ze_bh3rd_cyberpunk_z",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_bh3rd_cyberpunk_z.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_bh3rd_cyberpunk_z.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_bh3rd_cyberpunk_z.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_bh3rd_cyberpunk_z.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_bh3rd_cyberpunk_z.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_bh3rd_cyberpunk_z.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_bh3rd_cyberpunk_z.webp"
+  },
+  {
+    "name": "ze_bh3rd_nagazoracity_z",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_bh3rd_nagazoracity_z.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_bh3rd_nagazoracity_z.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_bh3rd_nagazoracity_z.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_bh3rd_nagazoracity_z.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_bh3rd_nagazoracity_z.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_bh3rd_nagazoracity_z.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_bh3rd_nagazoracity_z.webp"
+  },
+  {
     "name": "ze_binary_z4_1",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_binary_z4_1.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_binary_z4_1.jpg",
@@ -14868,26 +14888,6 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_honkai_impact_3rd_cyberpunk_cityv26_7.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_honkai_impact_3rd_cyberpunk_cityv26_7.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_honkai_impact_3rd_cyberpunk_cityv26_7.webp"
-  },
-  {
-    "name": "ze_honkai_impact_changkongshi",
-    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_honkai_impact_changkongshi.jpg",
-    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_honkai_impact_changkongshi.jpg",
-    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_honkai_impact_changkongshi.jpg",
-    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_honkai_impact_changkongshi.jpg",
-    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_honkai_impact_changkongshi.webp",
-    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_honkai_impact_changkongshi.webp",
-    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_honkai_impact_changkongshi.webp"
-  },
-  {
-    "name": "ze_honkai_impact_tqs",
-    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_honkai_impact_tqs.jpg",
-    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_honkai_impact_tqs.jpg",
-    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_honkai_impact_tqs.jpg",
-    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_honkai_impact_tqs.jpg",
-    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_honkai_impact_tqs.webp",
-    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_honkai_impact_tqs.webp",
-    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_honkai_impact_tqs.webp"
   },
   {
     "name": "ze_honkai_nagazoracity_beta_4",
