@@ -17000,6 +17000,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_obj_ouroboros_aurora.webp"
   },
   {
+    "name": "ze_obj_ouroboros_ragnarok",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_obj_ouroboros_ragnarok.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_obj_ouroboros_ragnarok.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_obj_ouroboros_ragnarok.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_obj_ouroboros_ragnarok.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_obj_ouroboros_ragnarok.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_obj_ouroboros_ragnarok.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_obj_ouroboros_ragnarok.webp"
+  },
+  {
     "name": "ze_obj_rampage_v1_2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_obj_rampage_v1_2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_obj_rampage_v1_2.jpg",
