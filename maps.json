@@ -18070,6 +18070,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_ravenholm_a3.webp"
   },
   {
+    "name": "ze_re_creation",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_re_creation.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_re_creation.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_re_creation.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_re_creation.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_re_creation.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_re_creation.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_re_creation.webp"
+  },
+  {
     "name": "ze_re_creation_v2_25",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_re_creation_v2_25.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_re_creation_v2_25.jpg",
