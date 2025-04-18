@@ -16140,6 +16140,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_magus_v2_4.webp"
   },
   {
+    "name": "ze_maontain_escape",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_maontain_escape.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_maontain_escape.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_maontain_escape.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_maontain_escape.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_maontain_escape.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_maontain_escape.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_maontain_escape.webp"
+  },
+  {
     "name": "ze_mapeadores_museum_v1",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_mapeadores_museum_v1.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_mapeadores_museum_v1.jpg",
