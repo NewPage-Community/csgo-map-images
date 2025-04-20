@@ -16330,6 +16330,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_minecraft_sakura.webp"
   },
   {
+    "name": "ze_minecraft_universe",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_minecraft_universe.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_minecraft_universe.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_minecraft_universe.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_minecraft_universe.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_minecraft_universe.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_minecraft_universe.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_minecraft_universe.webp"
+  },
+  {
     "name": "ze_minecraft_universe_v1_5",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_minecraft_universe_v1_5.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_minecraft_universe_v1_5.jpg",
