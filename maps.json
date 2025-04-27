@@ -16940,6 +16940,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_obj_blackout_v1.webp"
   },
   {
+    "name": "ze_obj_blue_depth",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_obj_blue_depth.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_obj_blue_depth.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_obj_blue_depth.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_obj_blue_depth.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_obj_blue_depth.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_obj_blue_depth.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_obj_blue_depth.webp"
+  },
+  {
     "name": "ze_obj_collapse_b3fix",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_obj_collapse_b3fix.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_obj_collapse_b3fix.jpg",
