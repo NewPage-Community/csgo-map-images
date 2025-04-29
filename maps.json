@@ -15590,6 +15590,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_l4d2_c1m3_mall_csgo_v0_3_le.webp"
   },
   {
+    "name": "ze_lab_cs2_l",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_lab_cs2_l.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_lab_cs2_l.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_lab_cs2_l.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_lab_cs2_l.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_lab_cs2_l.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_lab_cs2_l.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_lab_cs2_l.webp"
+  },
+  {
     "name": "ze_lab_v5",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_lab_v5.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_lab_v5.jpg",
@@ -16618,6 +16628,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_necromanteion_v3_1.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_necromanteion_v3_1.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_necromanteion_v3_1.webp"
+  },
+  {
+    "name": "ze_negative_legacy_a2",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_negative_legacy_a2.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_negative_legacy_a2.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_negative_legacy_a2.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_negative_legacy_a2.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_negative_legacy_a2.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_negative_legacy_a2.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_negative_legacy_a2.webp"
   },
   {
     "name": "ze_negative_legacy_va2",
