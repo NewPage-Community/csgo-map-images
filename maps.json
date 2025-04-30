@@ -17000,6 +17000,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_obj_collapse_b3fix.webp"
   },
   {
+    "name": "ze_obj_eclipsis",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_obj_eclipsis.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_obj_eclipsis.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_obj_eclipsis.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_obj_eclipsis.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_obj_eclipsis.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_obj_eclipsis.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_obj_eclipsis.webp"
+  },
+  {
     "name": "ze_obj_eliminate_b2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_obj_eliminate_b2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_obj_eliminate_b2.jpg",
