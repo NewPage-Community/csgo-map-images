@@ -15170,6 +15170,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_inboxed_p.webp"
   },
   {
+    "name": "ze_incident_seasons",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_incident_seasons.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_incident_seasons.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_incident_seasons.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_incident_seasons.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_incident_seasons.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_incident_seasons.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_incident_seasons.webp"
+  },
+  {
     "name": "ze_incident_seasons_b2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_incident_seasons_b2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_incident_seasons_b2.jpg",
@@ -15658,6 +15668,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_legend_of_astrum_z.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_legend_of_astrum_z.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_legend_of_astrum_z.webp"
+  },
+  {
+    "name": "ze_lego",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_lego.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_lego.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_lego.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_lego.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_lego.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_lego.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_lego.webp"
   },
   {
     "name": "ze_lego_m1",
@@ -18258,6 +18278,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_rev_a6_3.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_rev_a6_3.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_rev_a6_3.webp"
+  },
+  {
+    "name": "ze_rien_z",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_rien_z.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_rien_z.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_rien_z.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_rien_z.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_rien_z.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_rien_z.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_rien_z.webp"
   },
   {
     "name": "ze_rien_z2_1f",
