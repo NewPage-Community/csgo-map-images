@@ -18100,6 +18100,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_radio_building_v1_3.webp"
   },
   {
+    "name": "ze_rainbow_factory",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_rainbow_factory.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_rainbow_factory.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_rainbow_factory.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_rainbow_factory.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_rainbow_factory.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_rainbow_factory.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_rainbow_factory.webp"
+  },
+  {
     "name": "ze_rainbow_factory_v2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_rainbow_factory_v2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_rainbow_factory_v2.jpg",
