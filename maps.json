@@ -20390,6 +20390,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_uchiha_legacy_cm2.webp"
   },
   {
+    "name": "ze_ultrakill",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_ultrakill.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_ultrakill.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_ultrakill.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_ultrakill.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_ultrakill.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_ultrakill.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_ultrakill.webp"
+  },
+  {
     "name": "ze_umbrellazombie_v1_p3_final",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_umbrellazombie_v1_p3_final.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_umbrellazombie_v1_p3_final.jpg",
