@@ -15360,6 +15360,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_italy_town_p2.webp"
   },
   {
+    "name": "ze_italy_town_z",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_italy_town_z.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_italy_town_z.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_italy_town_z.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_italy_town_z.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_italy_town_z.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_italy_town_z.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_italy_town_z.webp"
+  },
+  {
     "name": "ze_jiangnan_town_v3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_jiangnan_town_v3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_jiangnan_town_v3.jpg",
