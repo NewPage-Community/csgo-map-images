@@ -16890,6 +16890,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_nostromo_escape_p2.webp"
   },
   {
+    "name": "ze_notredame_p",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_notredame_p.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_notredame_p.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_notredame_p.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_notredame_p.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_notredame_p.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_notredame_p.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_notredame_p.webp"
+  },
+  {
     "name": "ze_notredame_p4",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_notredame_p4.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_notredame_p4.jpg",
@@ -18188,6 +18198,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_random_escape_csgo.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_random_escape_csgo.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_random_escape_csgo.webp"
+  },
+  {
+    "name": "ze_random_escape_p",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_random_escape_p.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_random_escape_p.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_random_escape_p.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_random_escape_p.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_random_escape_p.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_random_escape_p.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_random_escape_p.webp"
   },
   {
     "name": "ze_random_p",
@@ -20958,6 +20978,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_zk_mall_of_zombies_p2.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_zk_mall_of_zombies_p2.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_zk_mall_of_zombies_p2.webp"
+  },
+  {
+    "name": "ze_zombiemod_corporation_p",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_zombiemod_corporation_p.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_zombiemod_corporation_p.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_zombiemod_corporation_p.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_zombiemod_corporation_p.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_zombiemod_corporation_p.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_zombiemod_corporation_p.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_zombiemod_corporation_p.webp"
   },
   {
     "name": "ze_zombiemod_corporation_p2",
