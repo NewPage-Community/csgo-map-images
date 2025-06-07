@@ -12770,6 +12770,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_chronicle_a.webp"
   },
   {
+    "name": "ze_chrono_trigger",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_chrono_trigger.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_chrono_trigger.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_chrono_trigger.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_chrono_trigger.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_chrono_trigger.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_chrono_trigger.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_chrono_trigger.webp"
+  },
+  {
     "name": "ze_chronus_a1",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_chronus_a1.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_chronus_a1.jpg",
