@@ -18040,6 +18040,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_predator_ultimate_p7.webp"
   },
   {
+    "name": "ze_prototype",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_prototype.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_prototype.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_prototype.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_prototype.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_prototype.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_prototype.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_prototype.webp"
+  },
+  {
     "name": "ze_prototype_p2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_prototype_p2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_prototype_p2.jpg",
