@@ -16150,6 +16150,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_mabinogi_f4_1_cs2.webp"
   },
   {
+    "name": "ze_madara_temple",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_madara_temple.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_madara_temple.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_madara_temple.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_madara_temple.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_madara_temple.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_madara_temple.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_madara_temple.webp"
+  },
+  {
     "name": "ze_madara_temple_v1fix_csgo",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_madara_temple_v1fix_csgo.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_madara_temple_v1fix_csgo.jpg",
