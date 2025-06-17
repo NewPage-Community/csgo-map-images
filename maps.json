@@ -680,6 +680,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/cs_workout.webp"
   },
   {
+    "name": "de_akiba",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_akiba.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_akiba.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_akiba.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_akiba.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_akiba.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_akiba.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_akiba.webp"
+  },
+  {
     "name": "de_aldebaran",
     "src": "https://newpage-community.github.io/csgo-map-images/images/de_aldebaran.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/de_aldebaran.jpg",
@@ -900,6 +910,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_dust2_classic.webp"
   },
   {
+    "name": "de_dust2_cyberpunk",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_dust2_cyberpunk.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_dust2_cyberpunk.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_dust2_cyberpunk.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_dust2_cyberpunk.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_dust2_cyberpunk.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_dust2_cyberpunk.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_dust2_cyberpunk.webp"
+  },
+  {
     "name": "de_dust_classic",
     "src": "https://newpage-community.github.io/csgo-map-images/images/de_dust_classic.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/de_dust_classic.jpg",
@@ -928,6 +948,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_facade.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_facade.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_facade.webp"
+  },
+  {
+    "name": "de_fachwerk",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_fachwerk.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_fachwerk.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_fachwerk.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_fachwerk.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_fachwerk.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_fachwerk.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_fachwerk.webp"
   },
   {
     "name": "de_festival",
@@ -1120,6 +1150,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_mirage.webp"
   },
   {
+    "name": "de_mirage_cyberpunk",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_mirage_cyberpunk.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_mirage_cyberpunk.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_mirage_cyberpunk.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_mirage_cyberpunk.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_mirage_cyberpunk.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_mirage_cyberpunk.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_mirage_cyberpunk.webp"
+  },
+  {
     "name": "de_mist",
     "src": "https://newpage-community.github.io/csgo-map-images/images/de_mist.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/de_mist.jpg",
@@ -1130,6 +1170,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_mist.webp"
   },
   {
+    "name": "de_neptune",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_neptune.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_neptune.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_neptune.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_neptune.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_neptune.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_neptune.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_neptune.webp"
+  },
+  {
     "name": "de_nuke",
     "src": "https://newpage-community.github.io/csgo-map-images/images/de_nuke.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/de_nuke.jpg",
@@ -1138,6 +1188,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_nuke.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_nuke.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_nuke.webp"
+  },
+  {
+    "name": "de_nuke_cyberpunk",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_nuke_cyberpunk.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_nuke_cyberpunk.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_nuke_cyberpunk.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_nuke_cyberpunk.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_nuke_cyberpunk.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_nuke_cyberpunk.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_nuke_cyberpunk.webp"
   },
   {
     "name": "de_nuke_night",
@@ -1168,6 +1228,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_overpass.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_overpass.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_overpass.webp"
+  },
+  {
+    "name": "de_overpass_cyberpunk",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_overpass_cyberpunk.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_overpass_cyberpunk.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_overpass_cyberpunk.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_overpass_cyberpunk.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_overpass_cyberpunk.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_overpass_cyberpunk.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_overpass_cyberpunk.webp"
   },
   {
     "name": "de_palacio",
@@ -1388,6 +1458,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_train_classic.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_train_classic.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_train_classic.webp"
+  },
+  {
+    "name": "de_train_cyberpunk",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_train_cyberpunk.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_train_cyberpunk.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_train_cyberpunk.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_train_cyberpunk.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_train_cyberpunk.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_train_cyberpunk.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_train_cyberpunk.webp"
   },
   {
     "name": "de_tulip",
