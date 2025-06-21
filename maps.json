@@ -13840,6 +13840,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_ep2_plant_b1.webp"
   },
   {
+    "name": "ze_error",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_error.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_error.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_error.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_error.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_error.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_error.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_error.webp"
+  },
+  {
     "name": "ze_error_a0_ps",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_error_a0_ps.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_error_a0_ps.jpg",
@@ -14768,6 +14778,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_games_v2_1.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_games_v2_1.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_games_v2_1.webp"
+  },
+  {
+    "name": "ze_gameshow",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_gameshow.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_gameshow.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_gameshow.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_gameshow.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_gameshow.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_gameshow.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_gameshow.webp"
   },
   {
     "name": "ze_gameshow_v1_2_csgo1",
