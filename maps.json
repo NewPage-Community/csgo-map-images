@@ -14470,6 +14470,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_fire_temple_v2_4.webp"
   },
   {
+    "name": "ze_fireboy_watergirl",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_fireboy_watergirl.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_fireboy_watergirl.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_fireboy_watergirl.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_fireboy_watergirl.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_fireboy_watergirl.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_fireboy_watergirl.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_fireboy_watergirl.webp"
+  },
+  {
     "name": "ze_firewall_laboratory_part1_p",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_firewall_laboratory_part1_p.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_firewall_laboratory_part1_p.jpg",
