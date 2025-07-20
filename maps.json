@@ -15020,6 +15020,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_gris_v1_13.webp"
   },
   {
+    "name": "ze_guye_room",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_guye_room.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_guye_room.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_guye_room.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_guye_room.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_guye_room.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_guye_room.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_guye_room.webp"
+  },
+  {
     "name": "ze_halloween_house_b4",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_halloween_house_b4.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_halloween_house_b4.jpg",
