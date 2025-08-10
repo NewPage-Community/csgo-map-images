@@ -16900,6 +16900,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_moon_base_p3.webp"
   },
   {
+    "name": "ze_mota",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_mota.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_mota.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_mota.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_mota.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_mota.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_mota.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_mota.webp"
+  },
+  {
     "name": "ze_motanuminc_p2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_motanuminc_p2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_motanuminc_p2.jpg",
