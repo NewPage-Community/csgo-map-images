@@ -13380,6 +13380,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_dear_v1.webp"
   },
   {
+    "name": "ze_death_forest",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_death_forest.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_death_forest.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_death_forest.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_death_forest.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_death_forest.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_death_forest.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_death_forest.webp"
+  },
+  {
     "name": "ze_death_star_escape_p",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_death_star_escape_p.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_death_star_escape_p.jpg",
