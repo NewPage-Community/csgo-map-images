@@ -11940,6 +11940,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_ardenweald.webp"
   },
   {
+    "name": "ze_arknights_caerula_arbor",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_arknights_caerula_arbor.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_arknights_caerula_arbor.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_arknights_caerula_arbor.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_arknights_caerula_arbor.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_arknights_caerula_arbor.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_arknights_caerula_arbor.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_arknights_caerula_arbor.webp"
+  },
+  {
     "name": "ze_artika_base_p",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_artika_base_p.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_artika_base_p.jpg",
