@@ -14000,6 +14000,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_eternal_void_p3.webp"
   },
   {
+    "name": "ze_evernight",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_evernight.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_evernight.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_evernight.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_evernight.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_evernight.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_evernight.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_evernight.webp"
+  },
+  {
     "name": "ze_evernight_a3_4",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_evernight_a3_4.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_evernight_a3_4.jpg",
