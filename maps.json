@@ -16880,6 +16880,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_mist_q3.webp"
   },
   {
+    "name": "ze_mix",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_mix.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_mix.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_mix.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_mix.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_mix.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_mix.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_mix.webp"
+  },
+  {
     "name": "ze_mochi_island",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_mochi_island.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_mochi_island.jpg",
@@ -18318,6 +18328,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_pokemon_adventure_v1_1.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_pokemon_adventure_v1_1.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_pokemon_adventure_v1_1.webp"
+  },
+  {
+    "name": "ze_pokemon_johto",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_pokemon_johto.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_pokemon_johto.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_pokemon_johto.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_pokemon_johto.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_pokemon_johto.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_pokemon_johto.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_pokemon_johto.webp"
   },
   {
     "name": "ze_pokemon_kanto_v1",
@@ -20728,6 +20748,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_toaster_p3.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_toaster_p3.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_toaster_p3.webp"
+  },
+  {
+    "name": "ze_toggle_theory",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_toggle_theory.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_toggle_theory.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_toggle_theory.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_toggle_theory.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_toggle_theory.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_toggle_theory.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_toggle_theory.webp"
   },
   {
     "name": "ze_totally_new_wester_w3",
