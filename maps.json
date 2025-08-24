@@ -18310,6 +18310,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_pkmn_adventure_v9_3.webp"
   },
   {
+    "name": "ze_plants_vs_zombies",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_plants_vs_zombies.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_plants_vs_zombies.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_plants_vs_zombies.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_plants_vs_zombies.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_plants_vs_zombies.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_plants_vs_zombies.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_plants_vs_zombies.webp"
+  },
+  {
     "name": "ze_platformer_b2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_platformer_b2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_platformer_b2.jpg",
