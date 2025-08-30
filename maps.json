@@ -15530,6 +15530,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_immortal_flame.webp"
   },
   {
+    "name": "ze_imperium",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_imperium.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_imperium.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_imperium.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_imperium.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_imperium.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_imperium.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_imperium.webp"
+  },
+  {
     "name": "ze_inboxed_final_fix",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_inboxed_final_fix.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_inboxed_final_fix.jpg",
