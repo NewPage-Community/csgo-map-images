@@ -16770,6 +16770,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_minecraft_dragon_castle.webp"
   },
   {
+    "name": "ze_minecraft_drifts",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_minecraft_drifts.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_minecraft_drifts.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_minecraft_drifts.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_minecraft_drifts.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_minecraft_drifts.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_minecraft_drifts.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_minecraft_drifts.webp"
+  },
+  {
     "name": "ze_minecraft_journey_v1",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_minecraft_journey_v1.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_minecraft_journey_v1.jpg",
