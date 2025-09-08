@@ -13230,6 +13230,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_cv_losii_castle_siege_b4.webp"
   },
   {
+    "name": "ze_cyberbloods",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_cyberbloods.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_cyberbloods.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_cyberbloods.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_cyberbloods.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_cyberbloods.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_cyberbloods.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_cyberbloods.webp"
+  },
+  {
     "name": "ze_cyberderp_p3_kia",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_cyberderp_p3_kia.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_cyberderp_p3_kia.jpg",
