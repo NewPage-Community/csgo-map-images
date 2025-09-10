@@ -20750,6 +20750,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_thousand_steps_p.webp"
   },
   {
+    "name": "ze_three_eyes",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_three_eyes.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_three_eyes.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_three_eyes.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_three_eyes.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_three_eyes.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_three_eyes.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_three_eyes.webp"
+  },
+  {
     "name": "ze_three_eyes_v1_1",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_three_eyes_v1_1.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_three_eyes_v1_1.jpg",
