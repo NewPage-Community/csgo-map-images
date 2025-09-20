@@ -16200,6 +16200,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_lemonysnickets_p2.webp"
   },
   {
+    "name": "ze_lethal_company",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_lethal_company.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_lethal_company.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_lethal_company.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_lethal_company.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_lethal_company.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_lethal_company.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_lethal_company.webp"
+  },
+  {
     "name": "ze_licciana_escape_p",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_licciana_escape_p.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_licciana_escape_p.jpg",
