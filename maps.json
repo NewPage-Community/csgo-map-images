@@ -12460,6 +12460,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_bioshock_v7_1_csgo_a2.webp"
   },
   {
+    "name": "ze_bisounours_party",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_bisounours_party.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_bisounours_party.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_bisounours_party.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_bisounours_party.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_bisounours_party.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_bisounours_party.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_bisounours_party.webp"
+  },
+  {
     "name": "ze_bisounours_party_go_v3fix",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_bisounours_party_go_v3fix.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_bisounours_party_go_v3fix.jpg",
@@ -17738,6 +17748,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_obj_npst_v2.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_obj_npst_v2.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_obj_npst_v2.webp"
+  },
+  {
+    "name": "ze_obj_ouroboros_apollyon",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_obj_ouroboros_apollyon.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_obj_ouroboros_apollyon.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_obj_ouroboros_apollyon.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_obj_ouroboros_apollyon.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_obj_ouroboros_apollyon.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_obj_ouroboros_apollyon.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_obj_ouroboros_apollyon.webp"
   },
   {
     "name": "ze_obj_ouroboros_aurora",
