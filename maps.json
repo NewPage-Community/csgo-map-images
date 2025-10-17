@@ -19230,6 +19230,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_rtcw_ominous_rumors_p4.webp"
   },
   {
+    "name": "ze_rush_b",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_rush_b.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_rush_b.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_rush_b.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_rush_b.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_rush_b.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_rush_b.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_rush_b.webp"
+  },
+  {
     "name": "ze_rush_b_v1_4",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_rush_b_v1_4.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_rush_b_v1_4.jpg",
