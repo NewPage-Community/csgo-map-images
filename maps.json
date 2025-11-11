@@ -18110,6 +18110,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_only_up.webp"
   },
   {
+    "name": "ze_oot_shadowtemple",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_oot_shadowtemple.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_oot_shadowtemple.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_oot_shadowtemple.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_oot_shadowtemple.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_oot_shadowtemple.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_oot_shadowtemple.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_oot_shadowtemple.webp"
+  },
+  {
     "name": "ze_oot_shadowtemple_b10",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_oot_shadowtemple_b10.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_oot_shadowtemple_b10.jpg",
