@@ -22160,6 +22160,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_festival.webp"
   },
   {
+    "name": "zm_ffvii_mako_reactor",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/zm_ffvii_mako_reactor.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/zm_ffvii_mako_reactor.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/zm_ffvii_mako_reactor.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/zm_ffvii_mako_reactor.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_ffvii_mako_reactor.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_ffvii_mako_reactor.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_ffvii_mako_reactor.webp"
+  },
+  {
     "name": "zm_gepao",
     "src": "https://newpage-community.github.io/csgo-map-images/images/zm_gepao.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/zm_gepao.jpg",
