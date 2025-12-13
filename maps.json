@@ -22370,6 +22370,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_nano_mall.webp"
   },
   {
+    "name": "zm_purification",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/zm_purification.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/zm_purification.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/zm_purification.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/zm_purification.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_purification.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_purification.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_purification.webp"
+  },
+  {
     "name": "zm_quadruple_phalanx",
     "src": "https://newpage-community.github.io/csgo-map-images/images/zm_quadruple_phalanx.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/zm_quadruple_phalanx.jpg",
