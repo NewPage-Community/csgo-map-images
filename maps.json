@@ -16340,6 +16340,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_laser_island_z.webp"
   },
   {
+    "name": "ze_last_man_standing",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_last_man_standing.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_last_man_standing.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_last_man_standing.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_last_man_standing.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_last_man_standing.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_last_man_standing.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_last_man_standing.webp"
+  },
+  {
     "name": "ze_last_man_standing_p",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_last_man_standing_p.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_last_man_standing_p.jpg",
