@@ -22420,6 +22420,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_fantasy_ruins_ysn.webp"
   },
   {
+    "name": "zm_fantasy_ysn",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/zm_fantasy_ysn.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/zm_fantasy_ysn.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/zm_fantasy_ysn.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/zm_fantasy_ysn.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_fantasy_ysn.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_fantasy_ysn.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_fantasy_ysn.webp"
+  },
+  {
     "name": "zm_festival",
     "src": "https://newpage-community.github.io/csgo-map-images/images/zm_festival.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/zm_festival.jpg",
