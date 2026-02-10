@@ -22180,6 +22180,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_16chambres.webp"
   },
   {
+    "name": "zm_72ck_xgb_01",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/zm_72ck_xgb_01.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/zm_72ck_xgb_01.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/zm_72ck_xgb_01.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/zm_72ck_xgb_01.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_72ck_xgb_01.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_72ck_xgb_01.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_72ck_xgb_01.webp"
+  },
+  {
     "name": "zm_abyss",
     "src": "https://newpage-community.github.io/csgo-map-images/images/zm_abyss.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/zm_abyss.jpg",
@@ -22250,6 +22260,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_bms_blue_shift.webp"
   },
   {
+    "name": "zm_box_dust2",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/zm_box_dust2.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/zm_box_dust2.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/zm_box_dust2.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/zm_box_dust2.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_box_dust2.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_box_dust2.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_box_dust2.webp"
+  },
+  {
     "name": "zm_bunker_a1",
     "src": "https://newpage-community.github.io/csgo-map-images/images/zm_bunker_a1.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/zm_bunker_a1.jpg",
@@ -22318,6 +22338,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_deathcoffin.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_deathcoffin.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_deathcoffin.webp"
+  },
+  {
+    "name": "zm_defensive_drills",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/zm_defensive_drills.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/zm_defensive_drills.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/zm_defensive_drills.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/zm_defensive_drills.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_defensive_drills.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_defensive_drills.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_defensive_drills.webp"
   },
   {
     "name": "zm_desert_base",
@@ -22760,6 +22790,26 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_nuke_beta.webp"
   },
   {
+    "name": "zm_nuke_classic",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/zm_nuke_classic.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/zm_nuke_classic.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/zm_nuke_classic.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/zm_nuke_classic.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_nuke_classic.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_nuke_classic.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_nuke_classic.webp"
+  },
+  {
+    "name": "zm_planetarium_s",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/zm_planetarium_s.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/zm_planetarium_s.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/zm_planetarium_s.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/zm_planetarium_s.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_planetarium_s.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_planetarium_s.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_planetarium_s.webp"
+  },
+  {
     "name": "zm_pr0digy_old",
     "src": "https://newpage-community.github.io/csgo-map-images/images/zm_pr0digy_old.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/zm_pr0digy_old.jpg",
@@ -22768,6 +22818,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_pr0digy_old.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_pr0digy_old.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_pr0digy_old.webp"
+  },
+  {
+    "name": "zm_prisonbreak",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/zm_prisonbreak.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/zm_prisonbreak.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/zm_prisonbreak.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/zm_prisonbreak.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_prisonbreak.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_prisonbreak.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_prisonbreak.webp"
   },
   {
     "name": "zm_purification",
