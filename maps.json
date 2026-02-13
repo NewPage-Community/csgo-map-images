@@ -14040,6 +14040,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_darker_ruins_v1.webp"
   },
   {
+    "name": "ze_date_a_live",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_date_a_live.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_date_a_live.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_date_a_live.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_date_a_live.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_date_a_live.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_date_a_live.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_date_a_live.webp"
+  },
+  {
     "name": "ze_deadcore",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_deadcore.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_deadcore.jpg",
