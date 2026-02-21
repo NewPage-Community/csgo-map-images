@@ -12270,6 +12270,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_amalgamation_v1_1.webp"
   },
   {
+    "name": "ze_amdaporkeep",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_amdaporkeep.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_amdaporkeep.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_amdaporkeep.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_amdaporkeep.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_amdaporkeep.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_amdaporkeep.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_amdaporkeep.webp"
+  },
+  {
     "name": "ze_amdaporkeep_v1_2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_amdaporkeep_v1_2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_amdaporkeep_v1_2.jpg",
@@ -16098,6 +16108,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_horizon_sky_escape_v2.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_horizon_sky_escape_v2.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_horizon_sky_escape_v2.webp"
+  },
+  {
+    "name": "ze_hr_dead_center",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_hr_dead_center.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_hr_dead_center.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_hr_dead_center.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_hr_dead_center.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_hr_dead_center.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_hr_dead_center.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_hr_dead_center.webp"
   },
   {
     "name": "ze_hsc",
