@@ -21230,6 +21230,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_surf_facility_v2_3.webp"
   },
   {
+    "name": "ze_surf_froyo_lite",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_froyo_lite.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_froyo_lite.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_surf_froyo_lite.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_surf_froyo_lite.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_surf_froyo_lite.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_surf_froyo_lite.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_surf_froyo_lite.webp"
+  },
+  {
     "name": "ze_surf_froyo_v2_2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_froyo_v2_2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_surf_froyo_v2_2.jpg",
