@@ -22770,6 +22770,26 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_as_big_house.webp"
   },
   {
+    "name": "zm_assault_xgb_inside",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/zm_assault_xgb_inside.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/zm_assault_xgb_inside.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/zm_assault_xgb_inside.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/zm_assault_xgb_inside.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_assault_xgb_inside.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_assault_xgb_inside.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_assault_xgb_inside.webp"
+  },
+  {
+    "name": "zm_assault_xgb_outside",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/zm_assault_xgb_outside.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/zm_assault_xgb_outside.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/zm_assault_xgb_outside.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/zm_assault_xgb_outside.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_assault_xgb_outside.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_assault_xgb_outside.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_assault_xgb_outside.webp"
+  },
+  {
     "name": "zm_bank_office_v2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/zm_bank_office_v2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/zm_bank_office_v2.jpg",
@@ -23160,6 +23180,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_lila_panic_remake14.webp"
   },
   {
+    "name": "zm_liquid_anomaly_s1",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/zm_liquid_anomaly_s1.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/zm_liquid_anomaly_s1.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/zm_liquid_anomaly_s1.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/zm_liquid_anomaly_s1.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_liquid_anomaly_s1.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_liquid_anomaly_s1.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_liquid_anomaly_s1.webp"
+  },
+  {
     "name": "zm_lostcities_classic_p",
     "src": "https://newpage-community.github.io/csgo-map-images/images/zm_lostcities_classic_p.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/zm_lostcities_classic_p.jpg",
@@ -23348,6 +23378,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_nuke_classic.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_nuke_classic.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_nuke_classic.webp"
+  },
+  {
+    "name": "zm_obj_escalation",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/zm_obj_escalation.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/zm_obj_escalation.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/zm_obj_escalation.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/zm_obj_escalation.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_obj_escalation.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_obj_escalation.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_obj_escalation.webp"
   },
   {
     "name": "zm_planetarium_s",
