@@ -17500,6 +17500,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_mars_escape_p4.webp"
   },
   {
+    "name": "ze_mars_escape_xmas",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_mars_escape_xmas.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_mars_escape_xmas.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_mars_escape_xmas.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_mars_escape_xmas.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_mars_escape_xmas.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_mars_escape_xmas.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_mars_escape_xmas.webp"
+  },
+  {
     "name": "ze_meatropolis_p4",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_meatropolis_p4.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_meatropolis_p4.jpg",
