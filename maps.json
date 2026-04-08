@@ -22780,16 +22780,6 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_as_big_house.webp"
   },
   {
-    "name": "zm_assault_xgb_inside",
-    "src": "https://newpage-community.github.io/csgo-map-images/images/zm_assault_xgb_inside.jpg",
-    "full": "https://newpage-community.github.io/csgo-map-images/images/zm_assault_xgb_inside.jpg",
-    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/zm_assault_xgb_inside.jpg",
-    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/zm_assault_xgb_inside.jpg",
-    "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_assault_xgb_inside.webp",
-    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_assault_xgb_inside.webp",
-    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_assault_xgb_inside.webp"
-  },
-  {
     "name": "zm_assault_xgb_outside",
     "src": "https://newpage-community.github.io/csgo-map-images/images/zm_assault_xgb_outside.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/zm_assault_xgb_outside.jpg",
@@ -22798,6 +22788,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_assault_xgb_outside.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_assault_xgb_outside.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_assault_xgb_outside.webp"
+  },
+  {
+    "name": "zm_assult_xgb_inside",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/zm_assult_xgb_inside.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/zm_assult_xgb_inside.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/zm_assult_xgb_inside.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/zm_assult_xgb_inside.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_assult_xgb_inside.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_assult_xgb_inside.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_assult_xgb_inside.webp"
   },
   {
     "name": "zm_bank_office_v2",
