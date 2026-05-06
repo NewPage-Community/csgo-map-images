@@ -17110,6 +17110,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_lostclue_b3_3.webp"
   },
   {
+    "name": "ze_lostclue_cs2_l",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_lostclue_cs2_l.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_lostclue_cs2_l.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_lostclue_cs2_l.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_lostclue_cs2_l.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_lostclue_cs2_l.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_lostclue_cs2_l.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_lostclue_cs2_l.webp"
+  },
+  {
     "name": "ze_lotr_helms_deep_p",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_lotr_helms_deep_p.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_lotr_helms_deep_p.jpg",
