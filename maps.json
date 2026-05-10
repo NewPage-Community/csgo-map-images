@@ -19910,6 +19910,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_requiem_test.webp"
   },
   {
+    "name": "ze_resident_evil_3",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_resident_evil_3.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_resident_evil_3.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_resident_evil_3.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_resident_evil_3.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_resident_evil_3.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_resident_evil_3.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_resident_evil_3.webp"
+  },
+  {
     "name": "ze_resonance_cascade_p3_fix",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_resonance_cascade_p3_fix.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_resonance_cascade_p3_fix.jpg",
