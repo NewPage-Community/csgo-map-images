@@ -22340,6 +22340,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_ut2004_convoy_r5.webp"
   },
   {
+    "name": "ze_uyuni",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_uyuni.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_uyuni.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_uyuni.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_uyuni.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_uyuni.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_uyuni.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_uyuni.webp"
+  },
+  {
     "name": "ze_uyuni_v1_6",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_uyuni_v1_6.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_uyuni_v1_6.jpg",
