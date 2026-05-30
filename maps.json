@@ -19810,6 +19810,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_ratescape_v5_4.webp"
   },
   {
+    "name": "ze_rats_escape",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_rats_escape.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_rats_escape.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_rats_escape.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_rats_escape.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_rats_escape.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_rats_escape.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_rats_escape.webp"
+  },
+  {
     "name": "ze_rats_escape_final",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_rats_escape_final.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_rats_escape_final.jpg",
