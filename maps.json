@@ -14470,6 +14470,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_diablo.webp"
   },
   {
+    "name": "ze_diddle",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_diddle.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_diddle.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_diddle.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_diddle.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_diddle.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_diddle.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_diddle.webp"
+  },
+  {
     "name": "ze_diddle_v3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_diddle_v3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_diddle_v3.jpg",
