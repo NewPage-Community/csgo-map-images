@@ -13370,6 +13370,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_blood_castle_b7.webp"
   },
   {
+    "name": "ze_blue_magic_castle",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_blue_magic_castle.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_blue_magic_castle.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_blue_magic_castle.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_blue_magic_castle.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_blue_magic_castle.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_blue_magic_castle.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_blue_magic_castle.webp"
+  },
+  {
     "name": "ze_blue_magic_castle_v3_1",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_blue_magic_castle_v3_1.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_blue_magic_castle_v3_1.jpg",
