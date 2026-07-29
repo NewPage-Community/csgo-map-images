@@ -14060,6 +14060,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_ctr_terminal_v1_2_hdr.webp"
   },
   {
+    "name": "ze_cursed_bear_tales",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_cursed_bear_tales.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_cursed_bear_tales.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_cursed_bear_tales.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_cursed_bear_tales.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_cursed_bear_tales.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_cursed_bear_tales.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_cursed_bear_tales.webp"
+  },
+  {
     "name": "ze_cursed_bear_tales_v1_2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_cursed_bear_tales_v1_2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_cursed_bear_tales_v1_2.jpg",
@@ -15898,6 +15908,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_genso_of_last_v3_4_t1.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_genso_of_last_v3_4_t1.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_genso_of_last_v3_4_t1.webp"
+  },
+  {
+    "name": "ze_genso_of_last_v4",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_genso_of_last_v4.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_genso_of_last_v4.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_genso_of_last_v4.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_genso_of_last_v4.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_genso_of_last_v4.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_genso_of_last_v4.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_genso_of_last_v4.webp"
   },
   {
     "name": "ze_genso_of_last_v4_b1",
