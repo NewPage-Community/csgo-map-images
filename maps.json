@@ -13680,6 +13680,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_castlevania_64_v1_3_b9_go.webp"
   },
   {
+    "name": "ze_castlevania_nes",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_castlevania_nes.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_castlevania_nes.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_castlevania_nes.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_castlevania_nes.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_castlevania_nes.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_castlevania_nes.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_castlevania_nes.webp"
+  },
+  {
     "name": "ze_castlevania_p1_7",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_castlevania_p1_7.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_castlevania_p1_7.jpg",
