@@ -290,6 +290,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/bkz_impulse.webp"
   },
   {
+    "name": "bkz_iota",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/bkz_iota.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/bkz_iota.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/bkz_iota.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/bkz_iota.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/bkz_iota.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/bkz_iota.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/bkz_iota.webp"
+  },
+  {
     "name": "bkz_iota_v3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/bkz_iota_v3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/bkz_iota_v3.jpg",
