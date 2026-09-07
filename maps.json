@@ -17040,14 +17040,14 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_egyptian_b5.webp"
   },
   {
-    "name": "ze_einstein",
-    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_einstein.jpg",
-    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_einstein.jpg",
-    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_einstein.jpg",
-    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_einstein.jpg",
-    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_einstein.webp",
-    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_einstein.webp",
-    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_einstein.webp"
+    "name": "ze_einstein_p",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_einstein_p.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_einstein_p.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_einstein_p.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_einstein_p.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_einstein_p.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_einstein_p.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_einstein_p.webp"
   },
   {
     "name": "ze_einstein_v7",
