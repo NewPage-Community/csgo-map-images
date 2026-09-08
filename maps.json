@@ -21790,6 +21790,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_peach_castle_n64.webp"
   },
   {
+    "name": "ze_peach_insanity_n64",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_peach_insanity_n64.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_peach_insanity_n64.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_peach_insanity_n64.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_peach_insanity_n64.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_peach_insanity_n64.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_peach_insanity_n64.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_peach_insanity_n64.webp"
+  },
+  {
     "name": "ze_percocet_p",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_percocet_p.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_percocet_p.jpg",
