@@ -14300,6 +14300,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_yolo_multigames.webp"
   },
   {
+    "name": "mg_yolo_multigames_v1",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/mg_yolo_multigames_v1.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/mg_yolo_multigames_v1.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/mg_yolo_multigames_v1.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/mg_yolo_multigames_v1.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_yolo_multigames_v1.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_yolo_multigames_v1.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_yolo_multigames_v1.webp"
+  },
+  {
     "name": "mp_raid",
     "src": "https://newpage-community.github.io/csgo-map-images/images/mp_raid.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/mp_raid.jpg",
