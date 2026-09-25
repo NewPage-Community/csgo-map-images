@@ -4810,6 +4810,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_dank_stacks.webp"
   },
   {
+    "name": "kz_dankality",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/kz_dankality.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/kz_dankality.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/kz_dankality.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/kz_dankality.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/kz_dankality.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/kz_dankality.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_dankality.webp"
+  },
+  {
     "name": "kz_dark_fury",
     "src": "https://newpage-community.github.io/csgo-map-images/images/kz_dark_fury.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/kz_dark_fury.jpg",
@@ -5078,6 +5088,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/kz_dogrun.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/kz_dogrun.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_dogrun.webp"
+  },
+  {
+    "name": "kz_dogrun_v4",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/kz_dogrun_v4.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/kz_dogrun_v4.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/kz_dogrun_v4.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/kz_dogrun_v4.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/kz_dogrun_v4.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/kz_dogrun_v4.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_dogrun_v4.webp"
   },
   {
     "name": "kz_dojo",
@@ -13608,6 +13628,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/kz_warehouse.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/kz_warehouse.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_warehouse.webp"
+  },
+  {
+    "name": "kz_warrior",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/kz_warrior.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/kz_warrior.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/kz_warrior.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/kz_warrior.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/kz_warrior.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/kz_warrior.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_warrior.webp"
   },
   {
     "name": "kz_wasabi",
