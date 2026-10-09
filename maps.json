@@ -12810,6 +12810,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_sxb_misato.webp"
   },
   {
+    "name": "kz_sxb_onlyslide",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/kz_sxb_onlyslide.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/kz_sxb_onlyslide.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/kz_sxb_onlyslide.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/kz_sxb_onlyslide.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/kz_sxb_onlyslide.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/kz_sxb_onlyslide.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_sxb_onlyslide.webp"
+  },
+  {
     "name": "kz_sxb_poi",
     "src": "https://newpage-community.github.io/csgo-map-images/images/kz_sxb_poi.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/kz_sxb_poi.jpg",
