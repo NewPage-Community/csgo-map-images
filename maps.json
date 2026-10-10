@@ -15390,6 +15390,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_classics2.webp"
   },
   {
+    "name": "surf_classics3",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_classics3.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_classics3.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_classics3.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_classics3.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_classics3.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_classics3.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_classics3.webp"
+  },
+  {
     "name": "surf_colors_final",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_colors_final.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_colors_final.jpg",
