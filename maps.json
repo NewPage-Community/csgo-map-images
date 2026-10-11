@@ -1140,6 +1140,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_dust_cs16hd.webp"
   },
   {
+    "name": "de_echolab",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_echolab.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_echolab.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_echolab.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_echolab.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_echolab.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_echolab.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_echolab.webp"
+  },
+  {
     "name": "de_empire",
     "src": "https://newpage-community.github.io/csgo-map-images/images/de_empire.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/de_empire.jpg",
