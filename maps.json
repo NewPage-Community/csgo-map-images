@@ -17090,6 +17090,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_utopia_njv.webp"
   },
   {
+    "name": "surf_vale",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_vale.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_vale.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_vale.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_vale.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_vale.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_vale.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_vale.webp"
+  },
+  {
     "name": "surf_vienna",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_vienna.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_vienna.jpg",
