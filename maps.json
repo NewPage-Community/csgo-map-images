@@ -1690,6 +1690,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_soat.webp"
   },
   {
+    "name": "de_splinter",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_splinter.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_splinter.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_splinter.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_splinter.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_splinter.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_splinter.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_splinter.webp"
+  },
+  {
     "name": "de_stmarc",
     "src": "https://newpage-community.github.io/csgo-map-images/images/de_stmarc.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/de_stmarc.jpg",
