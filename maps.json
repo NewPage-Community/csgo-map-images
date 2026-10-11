@@ -16240,6 +16240,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_masonry.webp"
   },
   {
+    "name": "surf_me",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_me.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_me.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_me.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_me.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_me.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_me.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_me.webp"
+  },
+  {
     "name": "surf_mesa",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_mesa.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_mesa.jpg",
