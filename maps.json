@@ -660,6 +660,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/cs_insertion.webp"
   },
   {
+    "name": "cs_insertion2",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/cs_insertion2.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/cs_insertion2.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/cs_insertion2.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/cs_insertion2.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/cs_insertion2.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/cs_insertion2.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/cs_insertion2.webp"
+  },
+  {
     "name": "cs_italy",
     "src": "https://newpage-community.github.io/csgo-map-images/images/cs_italy.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/cs_italy.jpg",
