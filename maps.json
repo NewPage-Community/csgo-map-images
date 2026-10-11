@@ -1340,6 +1340,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_mills.webp"
   },
   {
+    "name": "de_minecraft_train",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_minecraft_train.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_minecraft_train.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_minecraft_train.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_minecraft_train.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_minecraft_train.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_minecraft_train.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_minecraft_train.webp"
+  },
+  {
     "name": "de_mirage",
     "src": "https://newpage-community.github.io/csgo-map-images/images/de_mirage.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/de_mirage.jpg",
