@@ -930,6 +930,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_aztec_classic.webp"
   },
   {
+    "name": "de_aztec_hr",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/de_aztec_hr.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/de_aztec_hr.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/de_aztec_hr.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/de_aztec_hr.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/de_aztec_hr.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/de_aztec_hr.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/de_aztec_hr.webp"
+  },
+  {
     "name": "de_bank",
     "src": "https://newpage-community.github.io/csgo-map-images/images/de_bank.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/de_bank.jpg",
