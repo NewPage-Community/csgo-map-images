@@ -15570,6 +15570,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_cozy.webp"
   },
   {
+    "name": "surf_craneworks",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_craneworks.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_craneworks.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_craneworks.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_craneworks.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_craneworks.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_craneworks.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_craneworks.webp"
+  },
+  {
     "name": "surf_crush",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_crush.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_crush.jpg",
@@ -16420,6 +16430,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_mesa.webp"
   },
   {
+    "name": "surf_mesa_aether",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_mesa_aether.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_mesa_aether.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_mesa_aether.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_mesa_aether.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_mesa_aether.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_mesa_aether.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_mesa_aether.webp"
+  },
+  {
     "name": "surf_metallic",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_metallic.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_metallic.jpg",
@@ -16648,6 +16668,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_pantheon.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_pantheon.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_pantheon.webp"
+  },
+  {
+    "name": "surf_papertown",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_papertown.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_papertown.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_papertown.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_papertown.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_papertown.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_papertown.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_papertown.webp"
   },
   {
     "name": "surf_parachutes",
@@ -17110,6 +17140,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_techsune.webp"
   },
   {
+    "name": "surf_tensor2",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_tensor2.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_tensor2.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_tensor2.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_tensor2.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_tensor2.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_tensor2.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_tensor2.webp"
+  },
+  {
     "name": "surf_theunexpected",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_theunexpected.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_theunexpected.jpg",
@@ -17128,6 +17168,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_this.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_this.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_this.webp"
+  },
+  {
+    "name": "surf_thunder",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_thunder.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_thunder.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_thunder.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_thunder.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_thunder.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_thunder.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_thunder.webp"
   },
   {
     "name": "surf_tundra_v2",
