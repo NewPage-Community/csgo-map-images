@@ -16520,6 +16520,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_mushroom.webp"
   },
   {
+    "name": "surf_neck_hurts",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_neck_hurts.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_neck_hurts.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_neck_hurts.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_neck_hurts.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_neck_hurts.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_neck_hurts.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_neck_hurts.webp"
+  },
+  {
     "name": "surf_nemesis",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_nemesis.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_nemesis.jpg",
