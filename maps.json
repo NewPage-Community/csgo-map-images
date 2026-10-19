@@ -7390,6 +7390,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_itz_transcendent.webp"
   },
   {
+    "name": "kz_itz_updown",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/kz_itz_updown.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/kz_itz_updown.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/kz_itz_updown.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/kz_itz_updown.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/kz_itz_updown.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/kz_itz_updown.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_itz_updown.webp"
+  },
+  {
     "name": "kz_j2s_cupblock_go_fix2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/kz_j2s_cupblock_go_fix2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/kz_j2s_cupblock_go_fix2.jpg",
@@ -14938,6 +14948,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_anoobis.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_anoobis.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_anoobis.webp"
+  },
+  {
+    "name": "surf_antimatter_v2",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_antimatter_v2.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_antimatter_v2.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_antimatter_v2.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_antimatter_v2.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_antimatter_v2.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_antimatter_v2.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_antimatter_v2.webp"
   },
   {
     "name": "surf_anubis",
