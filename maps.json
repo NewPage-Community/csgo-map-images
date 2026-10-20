@@ -16260,6 +16260,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_interceptor.webp"
   },
   {
+    "name": "surf_interstellar",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_interstellar.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_interstellar.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_interstellar.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_interstellar.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_interstellar.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_interstellar.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_interstellar.webp"
+  },
+  {
     "name": "surf_intothewild",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_intothewild.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_intothewild.jpg",
