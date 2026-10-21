@@ -14670,6 +14670,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/prestige.webp"
   },
   {
+    "name": "pwa_onlyup",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/pwa_onlyup.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/pwa_onlyup.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/pwa_onlyup.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/pwa_onlyup.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/pwa_onlyup.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/pwa_onlyup.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/pwa_onlyup.webp"
+  },
+  {
     "name": "ship_ren",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ship_ren.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ship_ren.jpg",
