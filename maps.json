@@ -15960,6 +15960,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_exxak.webp"
   },
   {
+    "name": "surf_ezclap",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_ezclap.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_ezclap.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_ezclap.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_ezclap.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_ezclap.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_ezclap.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_ezclap.webp"
+  },
+  {
     "name": "surf_fire_eye",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_fire_eye.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_fire_eye.jpg",
