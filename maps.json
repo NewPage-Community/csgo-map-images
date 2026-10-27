@@ -16430,6 +16430,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_lighthouse.webp"
   },
   {
+    "name": "surf_liminal",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_liminal.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_liminal.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_liminal.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_liminal.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_liminal.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_liminal.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_liminal.webp"
+  },
+  {
     "name": "surf_loentra",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_loentra.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_loentra.jpg",
