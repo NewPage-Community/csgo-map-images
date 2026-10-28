@@ -11820,6 +11820,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_slide_rovod.webp"
   },
   {
+    "name": "kz_slide_spm_simple",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/kz_slide_spm_simple.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/kz_slide_spm_simple.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/kz_slide_spm_simple.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/kz_slide_spm_simple.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/kz_slide_spm_simple.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/kz_slide_spm_simple.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_slide_spm_simple.webp"
+  },
+  {
     "name": "kz_slide_svn_complex_hard",
     "src": "https://newpage-community.github.io/csgo-map-images/images/kz_slide_svn_complex_hard.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/kz_slide_svn_complex_hard.jpg",
