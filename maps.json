@@ -16200,6 +16200,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_hekkz.webp"
   },
   {
+    "name": "surf_highlands_d",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_highlands_d.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_highlands_d.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_highlands_d.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_highlands_d.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_highlands_d.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_highlands_d.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_highlands_d.webp"
+  },
+  {
     "name": "surf_hollow",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_hollow.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_hollow.jpg",
