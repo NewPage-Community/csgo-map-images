@@ -11810,6 +11810,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_slide_red.webp"
   },
   {
+    "name": "kz_slide_rov_od",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/kz_slide_rov_od.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/kz_slide_rov_od.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/kz_slide_rov_od.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/kz_slide_rov_od.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/kz_slide_rov_od.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/kz_slide_rov_od.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_slide_rov_od.webp"
+  },
+  {
     "name": "kz_slide_rovod",
     "src": "https://newpage-community.github.io/csgo-map-images/images/kz_slide_rovod.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/kz_slide_rovod.jpg",
