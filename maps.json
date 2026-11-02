@@ -15510,6 +15510,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_chasm.webp"
   },
   {
+    "name": "surf_christmas",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_christmas.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_christmas.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_christmas.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_christmas.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_christmas.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_christmas.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_christmas.webp"
+  },
+  {
     "name": "surf_cinnamon",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_cinnamon.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_cinnamon.jpg",
