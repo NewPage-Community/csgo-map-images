@@ -16870,6 +16870,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_plaguelands.webp"
   },
   {
+    "name": "surf_pools",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_pools.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_pools.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_pools.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_pools.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_pools.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_pools.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_pools.webp"
+  },
+  {
     "name": "surf_prelude",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_prelude.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_prelude.jpg",
