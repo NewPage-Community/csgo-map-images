@@ -20720,6 +20720,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_empirecity_p.webp"
   },
   {
+    "name": "ze_endemic",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_endemic.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_endemic.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_endemic.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_endemic.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_endemic.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_endemic.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_endemic.webp"
+  },
+  {
     "name": "ze_endemic_v1_3",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_endemic_v1_3.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_endemic_v1_3.jpg",
