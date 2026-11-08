@@ -14440,6 +14440,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_damons_headshot_contest.webp"
   },
   {
+    "name": "mg_fight_yard",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/mg_fight_yard.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/mg_fight_yard.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/mg_fight_yard.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/mg_fight_yard.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_fight_yard.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_fight_yard.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_fight_yard.webp"
+  },
+  {
     "name": "mg_fun_matrix_trilogie",
     "src": "https://newpage-community.github.io/csgo-map-images/images/mg_fun_matrix_trilogie.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/mg_fun_matrix_trilogie.jpg",
