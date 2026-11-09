@@ -14510,6 +14510,26 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_2ezmap_course.webp"
   },
   {
+    "name": "mg_3k_smash_lego_copter",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/mg_3k_smash_lego_copter.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/mg_3k_smash_lego_copter.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/mg_3k_smash_lego_copter.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/mg_3k_smash_lego_copter.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_3k_smash_lego_copter.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_3k_smash_lego_copter.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_3k_smash_lego_copter.webp"
+  },
+  {
+    "name": "mg_50arenas",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/mg_50arenas.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/mg_50arenas.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/mg_50arenas.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/mg_50arenas.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_50arenas.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_50arenas.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_50arenas.webp"
+  },
+  {
     "name": "mg_acrophobia",
     "src": "https://newpage-community.github.io/csgo-map-images/images/mg_acrophobia.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/mg_acrophobia.jpg",
@@ -15740,6 +15760,26 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_line_course_v1.webp"
   },
   {
+    "name": "mg_lt_galaxy",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/mg_lt_galaxy.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/mg_lt_galaxy.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/mg_lt_galaxy.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/mg_lt_galaxy.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_lt_galaxy.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_lt_galaxy.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_lt_galaxy.webp"
+  },
+  {
+    "name": "mg_lt_glacier",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/mg_lt_glacier.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/mg_lt_glacier.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/mg_lt_glacier.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/mg_lt_glacier.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_lt_glacier.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_lt_glacier.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_lt_glacier.webp"
+  },
+  {
     "name": "mg_luckydays",
     "src": "https://newpage-community.github.io/csgo-map-images/images/mg_luckydays.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/mg_luckydays.jpg",
@@ -16590,6 +16630,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_sky_realm_v3.webp"
   },
   {
+    "name": "mg_skybattle_v3",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/mg_skybattle_v3.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/mg_skybattle_v3.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/mg_skybattle_v3.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/mg_skybattle_v3.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_skybattle_v3.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_skybattle_v3.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_skybattle_v3.webp"
+  },
+  {
     "name": "mg_skygrass_balkanstar",
     "src": "https://newpage-community.github.io/csgo-map-images/images/mg_skygrass_balkanstar.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/mg_skygrass_balkanstar.jpg",
@@ -16628,6 +16678,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_slowdown.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_slowdown.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_slowdown.webp"
+  },
+  {
+    "name": "mg_smee_tower_cs2",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/mg_smee_tower_cs2.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/mg_smee_tower_cs2.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/mg_smee_tower_cs2.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/mg_smee_tower_cs2.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_smee_tower_cs2.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_smee_tower_cs2.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_smee_tower_cs2.webp"
   },
   {
     "name": "mg_sn_naipi_cs2",
@@ -16758,6 +16818,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_strugen_generations.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_strugen_generations.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_strugen_generations.webp"
+  },
+  {
+    "name": "mg_super_tower_ane",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/mg_super_tower_ane.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/mg_super_tower_ane.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/mg_super_tower_ane.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/mg_super_tower_ane.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_super_tower_ane.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_super_tower_ane.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_super_tower_ane.webp"
   },
   {
     "name": "mg_supernatural_course",
@@ -16900,6 +16970,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_tower_b2r.webp"
   },
   {
+    "name": "mg_tower_cobblestone",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/mg_tower_cobblestone.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/mg_tower_cobblestone.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/mg_tower_cobblestone.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/mg_tower_cobblestone.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_tower_cobblestone.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_tower_cobblestone.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_tower_cobblestone.webp"
+  },
+  {
     "name": "mg_toxic_course_v2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/mg_toxic_course_v2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/mg_toxic_course_v2.jpg",
@@ -16988,6 +17068,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_want_to_be_a_girl_v3_d.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_want_to_be_a_girl_v3_d.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_want_to_be_a_girl_v3_d.webp"
+  },
+  {
+    "name": "mg_warmcup_headshot",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/mg_warmcup_headshot.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/mg_warmcup_headshot.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/mg_warmcup_headshot.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/mg_warmcup_headshot.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_warmcup_headshot.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_warmcup_headshot.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_warmcup_headshot.webp"
   },
   {
     "name": "mg_water_park_momo_v3_d",
@@ -17128,6 +17218,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_zelda_kokiri_course.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_zelda_kokiri_course.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_zelda_kokiri_course.webp"
+  },
+  {
+    "name": "mg_zetzui_multigames_v1",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/mg_zetzui_multigames_v1.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/mg_zetzui_multigames_v1.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/mg_zetzui_multigames_v1.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/mg_zetzui_multigames_v1.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_zetzui_multigames_v1.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_zetzui_multigames_v1.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_zetzui_multigames_v1.webp"
   },
   {
     "name": "minecraft_adventure",
