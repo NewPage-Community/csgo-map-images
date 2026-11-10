@@ -550,6 +550,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/colombia.webp"
   },
   {
+    "name": "coop_tower_defense_cave",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/coop_tower_defense_cave.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/coop_tower_defense_cave.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/coop_tower_defense_cave.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/coop_tower_defense_cave.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/coop_tower_defense_cave.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/coop_tower_defense_cave.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/coop_tower_defense_cave.webp"
+  },
+  {
     "name": "cr_crazyhouse",
     "src": "https://newpage-community.github.io/csgo-map-images/images/cr_crazyhouse.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/cr_crazyhouse.jpg",
