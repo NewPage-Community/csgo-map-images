@@ -31770,6 +31770,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_3rooms.webp"
   },
   {
+    "name": "zm_3rooms_fix",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/zm_3rooms_fix.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/zm_3rooms_fix.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/zm_3rooms_fix.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/zm_3rooms_fix.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/zm_3rooms_fix.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/zm_3rooms_fix.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/zm_3rooms_fix.webp"
+  },
+  {
     "name": "zm_72ck_xgb_01",
     "src": "https://newpage-community.github.io/csgo-map-images/images/zm_72ck_xgb_01.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/zm_72ck_xgb_01.jpg",
