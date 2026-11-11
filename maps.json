@@ -20210,6 +20210,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_zion.webp"
   },
   {
+    "name": "survival_mayhem",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/survival_mayhem.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/survival_mayhem.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/survival_mayhem.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/survival_mayhem.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/survival_mayhem.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/survival_mayhem.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/survival_mayhem.webp"
+  },
+  {
     "name": "transportship",
     "src": "https://newpage-community.github.io/csgo-map-images/images/transportship.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/transportship.jpg",
