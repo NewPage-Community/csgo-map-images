@@ -17300,6 +17300,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/pwa_onlyup.webp"
   },
   {
+    "name": "sahara_cs2_real",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/sahara_cs2_real.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/sahara_cs2_real.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/sahara_cs2_real.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/sahara_cs2_real.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/sahara_cs2_real.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/sahara_cs2_real.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/sahara_cs2_real.webp"
+  },
+  {
     "name": "ship_ren",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ship_ren.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ship_ren.jpg",
@@ -17430,6 +17440,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_25_lighters.webp"
   },
   {
+    "name": "surf_3",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_3.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_3.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_3.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_3.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_3.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_3.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_3.webp"
+  },
+  {
     "name": "surf_4am",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_4am.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_4am.jpg",
@@ -17500,6 +17520,36 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_ace.webp"
   },
   {
+    "name": "surf_activation",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_activation.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_activation.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_activation.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_activation.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_activation.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_activation.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_activation.webp"
+  },
+  {
+    "name": "surf_adtr",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_adtr.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_adtr.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_adtr.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_adtr.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_adtr.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_adtr.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_adtr.webp"
+  },
+  {
+    "name": "surf_adventure",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_adventure.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_adventure.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_adventure.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_adventure.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_adventure.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_adventure.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_adventure.webp"
+  },
+  {
     "name": "surf_aeron",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_aeron.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_aeron.jpg",
@@ -17540,6 +17590,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_again.webp"
   },
   {
+    "name": "surf_aircontrol_ksf",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_aircontrol_ksf.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_aircontrol_ksf.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_aircontrol_ksf.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_aircontrol_ksf.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_aircontrol_ksf.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_aircontrol_ksf.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_aircontrol_ksf.webp"
+  },
+  {
     "name": "surf_airflow",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_airflow.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_airflow.jpg",
@@ -17548,6 +17608,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_airflow.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_airflow.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_airflow.webp"
+  },
+  {
+    "name": "surf_amaranthine",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_amaranthine.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_amaranthine.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_amaranthine.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_amaranthine.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_amaranthine.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_amaranthine.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_amaranthine.webp"
   },
   {
     "name": "surf_amateur",
@@ -17670,6 +17740,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_artois.webp"
   },
   {
+    "name": "surf_asian",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_asian.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_asian.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_asian.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_asian.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_asian.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_asian.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_asian.webp"
+  },
+  {
     "name": "surf_assail",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_assail.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_assail.jpg",
@@ -17680,6 +17760,26 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_assail.webp"
   },
   {
+    "name": "surf_astra",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_astra.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_astra.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_astra.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_astra.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_astra.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_astra.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_astra.webp"
+  },
+  {
+    "name": "surf_astray",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_astray.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_astray.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_astray.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_astray.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_astray.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_astray.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_astray.webp"
+  },
+  {
     "name": "surf_atlas",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_atlas.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_atlas.jpg",
@@ -17688,6 +17788,26 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_atlas.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_atlas.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_atlas.webp"
+  },
+  {
+    "name": "surf_atonement",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_atonement.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_atonement.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_atonement.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_atonement.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_atonement.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_atonement.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_atonement.webp"
+  },
+  {
+    "name": "surf_atrium",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_atrium.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_atrium.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_atrium.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_atrium.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_atrium.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_atrium.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_atrium.webp"
   },
   {
     "name": "surf_atrium_go",
@@ -17708,6 +17828,26 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_aura.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_aura.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_aura.webp"
+  },
+  {
+    "name": "surf_autism",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_autism.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_autism.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_autism.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_autism.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_autism.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_autism.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_autism.webp"
+  },
+  {
+    "name": "surf_autism_2",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_autism_2.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_autism_2.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_autism_2.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_autism_2.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_autism_2.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_autism_2.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_autism_2.webp"
   },
   {
     "name": "surf_autumn",
@@ -17950,6 +18090,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_botanica.webp"
   },
   {
+    "name": "surf_boy",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_boy.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_boy.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_boy.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_boy.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_boy.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_boy.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_boy.webp"
+  },
+  {
     "name": "surf_brutalist",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_brutalist.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_brutalist.jpg",
@@ -18018,6 +18168,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_calamity2.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_calamity2.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_calamity2.webp"
+  },
+  {
+    "name": "surf_calibration",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_calibration.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_calibration.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_calibration.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_calibration.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_calibration.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_calibration.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_calibration.webp"
   },
   {
     "name": "surf_calycate2_cs2",
@@ -18090,6 +18250,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_castle.webp"
   },
   {
+    "name": "surf_castlewalls",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_castlewalls.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_castlewalls.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_castlewalls.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_castlewalls.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_castlewalls.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_castlewalls.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_castlewalls.webp"
+  },
+  {
     "name": "surf_catalyst2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_catalyst2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_catalyst2.jpg",
@@ -18118,6 +18288,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_christmas.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_christmas.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_christmas.webp"
+  },
+  {
+    "name": "surf_chromatic",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_chromatic.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_chromatic.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_chromatic.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_chromatic.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_chromatic.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_chromatic.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_chromatic.webp"
   },
   {
     "name": "surf_cinnamon",
@@ -18198,6 +18378,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_concretejungle.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_concretejungle.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_concretejungle.webp"
+  },
+  {
+    "name": "surf_coralis_ksf",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_coralis_ksf.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_coralis_ksf.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_coralis_ksf.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_coralis_ksf.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_coralis_ksf.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_coralis_ksf.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_coralis_ksf.webp"
   },
   {
     "name": "surf_cordelia",
@@ -18300,6 +18490,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_damnation.webp"
   },
   {
+    "name": "surf_dank",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_dank.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_dank.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_dank.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_dank.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_dank.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_dank.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_dank.webp"
+  },
+  {
     "name": "surf_deadline",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_deadline.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_deadline.jpg",
@@ -18328,6 +18528,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_deceptive.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_deceptive.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_deceptive.webp"
+  },
+  {
+    "name": "surf_decked",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_decked.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_decked.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_decked.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_decked.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_decked.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_decked.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_decked.webp"
   },
   {
     "name": "surf_delight",
@@ -18480,6 +18690,36 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_dune.webp"
   },
   {
+    "name": "surf_easypath",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_easypath.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_easypath.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_easypath.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_easypath.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_easypath.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_easypath.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_easypath.webp"
+  },
+  {
+    "name": "surf_ebony",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_ebony.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_ebony.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_ebony.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_ebony.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_ebony.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_ebony.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_ebony.webp"
+  },
+  {
+    "name": "surf_egypt",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_egypt.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_egypt.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_egypt.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_egypt.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_egypt.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_egypt.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_egypt.webp"
+  },
+  {
     "name": "surf_eldritch",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_eldritch.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_eldritch.jpg",
@@ -18538,6 +18778,36 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_enlightened.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_enlightened.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_enlightened.webp"
+  },
+  {
+    "name": "surf_ethereal",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_ethereal.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_ethereal.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_ethereal.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_ethereal.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_ethereal.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_ethereal.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_ethereal.webp"
+  },
+  {
+    "name": "surf_evo",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_evo.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_evo.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_evo.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_evo.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_evo.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_evo.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_evo.webp"
+  },
+  {
+    "name": "surf_excavation",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_excavation.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_excavation.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_excavation.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_excavation.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_excavation.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_excavation.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_excavation.webp"
   },
   {
     "name": "surf_exland",
@@ -18600,6 +18870,26 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_ezclap.webp"
   },
   {
+    "name": "surf_fast",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_fast.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_fast.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_fast.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_fast.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_fast.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_fast.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_fast.webp"
+  },
+  {
+    "name": "surf_fiellu",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_fiellu.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_fiellu.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_fiellu.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_fiellu.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_fiellu.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_fiellu.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_fiellu.webp"
+  },
+  {
     "name": "surf_fire_eye",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_fire_eye.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_fire_eye.jpg",
@@ -18608,6 +18898,36 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_fire_eye.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_fire_eye.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_fire_eye.webp"
+  },
+  {
+    "name": "surf_first",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_first.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_first.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_first.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_first.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_first.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_first.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_first.webp"
+  },
+  {
+    "name": "surf_flow",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_flow.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_flow.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_flow.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_flow.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_flow.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_flow.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_flow.webp"
+  },
+  {
+    "name": "surf_fornax",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_fornax.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_fornax.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_fornax.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_fornax.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_fornax.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_fornax.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_fornax.webp"
   },
   {
     "name": "surf_frequency",
@@ -18630,6 +18950,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_friday.webp"
   },
   {
+    "name": "surf_frost",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_frost.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_frost.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_frost.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_frost.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_frost.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_frost.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_frost.webp"
+  },
+  {
     "name": "surf_frosty",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_frosty.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_frosty.jpg",
@@ -18648,6 +18978,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_fruits2.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_fruits2.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_fruits2.webp"
+  },
+  {
+    "name": "surf_fuckyall",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_fuckyall.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_fuckyall.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_fuckyall.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_fuckyall.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_fuckyall.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_fuckyall.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_fuckyall.webp"
   },
   {
     "name": "surf_furios",
@@ -18690,6 +19030,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_gekar.webp"
   },
   {
+    "name": "surf_generic",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_generic.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_generic.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_generic.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_generic.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_generic.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_generic.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_generic.webp"
+  },
+  {
     "name": "surf_giza",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_giza.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_giza.jpg",
@@ -18720,6 +19070,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_glass7.webp"
   },
   {
+    "name": "surf_gleam",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_gleam.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_gleam.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_gleam.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_gleam.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_gleam.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_gleam.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_gleam.webp"
+  },
+  {
     "name": "surf_gloomy",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_gloomy.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_gloomy.jpg",
@@ -18728,6 +19088,56 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_gloomy.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_gloomy.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_gloomy.webp"
+  },
+  {
+    "name": "surf_glow",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_glow.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_glow.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_glow.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_glow.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_glow.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_glow.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_glow.webp"
+  },
+  {
+    "name": "surf_golden",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_golden.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_golden.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_golden.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_golden.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_golden.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_golden.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_golden.webp"
+  },
+  {
+    "name": "surf_grandad",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_grandad.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_grandad.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_grandad.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_grandad.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_grandad.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_grandad.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_grandad.webp"
+  },
+  {
+    "name": "surf_grassland",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_grassland.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_grassland.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_grassland.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_grassland.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_grassland.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_grassland.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_grassland.webp"
+  },
+  {
+    "name": "surf_greenhouse",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_greenhouse.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_greenhouse.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_greenhouse.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_greenhouse.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_greenhouse.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_greenhouse.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_greenhouse.webp"
   },
   {
     "name": "surf_guitar_hi",
@@ -18800,6 +19210,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_happyhands4.webp"
   },
   {
+    "name": "surf_haze",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_haze.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_haze.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_haze.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_haze.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_haze.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_haze.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_haze.webp"
+  },
+  {
     "name": "surf_healthy_e",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_healthy_e.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_healthy_e.jpg",
@@ -18818,6 +19238,26 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_hekkz.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_hekkz.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_hekkz.webp"
+  },
+  {
+    "name": "surf_helljumper",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_helljumper.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_helljumper.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_helljumper.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_helljumper.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_helljumper.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_helljumper.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_helljumper.webp"
+  },
+  {
+    "name": "surf_het",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_het.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_het.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_het.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_het.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_het.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_het.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_het.webp"
   },
   {
     "name": "surf_highlands_d",
@@ -18840,6 +19280,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_hollow.webp"
   },
   {
+    "name": "surf_hourglass",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_hourglass.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_hourglass.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_hourglass.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_hourglass.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_hourglass.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_hourglass.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_hourglass.webp"
+  },
+  {
     "name": "surf_how2surf",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_how2surf.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_how2surf.jpg",
@@ -18860,6 +19310,26 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_hunty.webp"
   },
   {
+    "name": "surf_hyzer",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_hyzer.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_hyzer.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_hyzer.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_hyzer.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_hyzer.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_hyzer.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_hyzer.webp"
+  },
+  {
+    "name": "surf_iceworld",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_iceworld.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_iceworld.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_iceworld.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_iceworld.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_iceworld.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_iceworld.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_iceworld.webp"
+  },
+  {
     "name": "surf_imex",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_imex.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_imex.jpg",
@@ -18878,6 +19348,26 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_infected.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_infected.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_infected.webp"
+  },
+  {
+    "name": "surf_inferno",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_inferno.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_inferno.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_inferno.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_inferno.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_inferno.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_inferno.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_inferno.webp"
+  },
+  {
+    "name": "surf_ing",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_ing.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_ing.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_ing.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_ing.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_ing.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_ing.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_ing.webp"
   },
   {
     "name": "surf_innokia",
@@ -18970,6 +19460,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_island.webp"
   },
   {
+    "name": "surf_ivory",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_ivory.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_ivory.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_ivory.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_ivory.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_ivory.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_ivory.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_ivory.webp"
+  },
+  {
     "name": "surf_ixtab",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_ixtab.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_ixtab.jpg",
@@ -19008,6 +19508,26 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_kitsune2.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_kitsune2.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_kitsune2.webp"
+  },
+  {
+    "name": "surf_kloakk",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_kloakk.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_kloakk.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_kloakk.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_kloakk.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_kloakk.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_kloakk.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_kloakk.webp"
+  },
+  {
+    "name": "surf_koa",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_koa.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_koa.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_koa.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_koa.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_koa.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_koa.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_koa.webp"
   },
   {
     "name": "surf_kraken",
@@ -19060,6 +19580,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_liberation2.webp"
   },
   {
+    "name": "surf_lies",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_lies.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_lies.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_lies.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_lies.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_lies.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_lies.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_lies.webp"
+  },
+  {
     "name": "surf_life_of_duck_go",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_life_of_duck_go.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_life_of_duck_go.jpg",
@@ -19100,6 +19630,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_liminal_ksf.webp"
   },
   {
+    "name": "surf_lockdown",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_lockdown.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_lockdown.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_lockdown.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_lockdown.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_lockdown.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_lockdown.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_lockdown.webp"
+  },
+  {
     "name": "surf_loentra",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_loentra.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_loentra.jpg",
@@ -19108,6 +19648,46 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_loentra.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_loentra.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_loentra.webp"
+  },
+  {
+    "name": "surf_longreach",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_longreach.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_longreach.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_longreach.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_longreach.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_longreach.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_longreach.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_longreach.webp"
+  },
+  {
+    "name": "surf_lore",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_lore.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_lore.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_lore.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_lore.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_lore.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_lore.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_lore.webp"
+  },
+  {
+    "name": "surf_lovetunnel",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_lovetunnel.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_lovetunnel.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_lovetunnel.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_lovetunnel.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_lovetunnel.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_lovetunnel.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_lovetunnel.webp"
+  },
+  {
+    "name": "surf_lullaby",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_lullaby.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_lullaby.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_lullaby.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_lullaby.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_lullaby.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_lullaby.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_lullaby.webp"
   },
   {
     "name": "surf_lux",
@@ -19130,6 +19710,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_mackful.webp"
   },
   {
+    "name": "surf_mads",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_mads.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_mads.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_mads.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_mads.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_mads.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_mads.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_mads.webp"
+  },
+  {
     "name": "surf_marah",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_marah.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_marah.jpg",
@@ -19150,6 +19740,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_masonry.webp"
   },
   {
+    "name": "surf_mayday",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_mayday.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_mayday.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_mayday.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_mayday.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_mayday.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_mayday.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_mayday.webp"
+  },
+  {
     "name": "surf_me",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_me.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_me.jpg",
@@ -19158,6 +19758,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_me.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_me.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_me.webp"
+  },
+  {
+    "name": "surf_mellow",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_mellow.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_mellow.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_mellow.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_mellow.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_mellow.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_mellow.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_mellow.webp"
   },
   {
     "name": "surf_mesa",
@@ -19190,6 +19800,26 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_metallic.webp"
   },
   {
+    "name": "surf_minecraft",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_minecraft.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_minecraft.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_minecraft.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_minecraft.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_minecraft.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_minecraft.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_minecraft.webp"
+  },
+  {
+    "name": "surf_mineshaft",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_mineshaft.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_mineshaft.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_mineshaft.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_mineshaft.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_mineshaft.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_mineshaft.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_mineshaft.webp"
+  },
+  {
     "name": "surf_miracle",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_miracle.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_miracle.jpg",
@@ -19218,6 +19848,46 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_misty.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_misty.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_misty.webp"
+  },
+  {
+    "name": "surf_mom",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_mom.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_mom.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_mom.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_mom.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_mom.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_mom.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_mom.webp"
+  },
+  {
+    "name": "surf_momentum",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_momentum.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_momentum.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_momentum.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_momentum.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_momentum.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_momentum.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_momentum.webp"
+  },
+  {
+    "name": "surf_moonkingdom",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_moonkingdom.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_moonkingdom.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_moonkingdom.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_moonkingdom.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_moonkingdom.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_moonkingdom.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_moonkingdom.webp"
+  },
+  {
+    "name": "surf_mossy",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_mossy.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_mossy.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_mossy.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_mossy.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_mossy.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_mossy.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_mossy.webp"
   },
   {
     "name": "surf_motion1",
@@ -19280,6 +19950,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_network_2013.webp"
   },
   {
+    "name": "surf_neutralize",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_neutralize.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_neutralize.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_neutralize.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_neutralize.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_neutralize.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_neutralize.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_neutralize.webp"
+  },
+  {
     "name": "surf_newb_hazard",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_newb_hazard.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_newb_hazard.jpg",
@@ -19288,6 +19968,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_newb_hazard.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_newb_hazard.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_newb_hazard.webp"
+  },
+  {
+    "name": "surf_newbie",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_newbie.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_newbie.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_newbie.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_newbie.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_newbie.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_newbie.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_newbie.webp"
   },
   {
     "name": "surf_nibiru",
@@ -19338,6 +20028,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_not_so_zen.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_not_so_zen.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_not_so_zen.webp"
+  },
+  {
+    "name": "surf_nova",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_nova.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_nova.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_nova.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_nova.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_nova.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_nova.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_nova.webp"
   },
   {
     "name": "surf_nuclear",
@@ -19410,6 +20110,36 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_orion.webp"
   },
   {
+    "name": "surf_outside",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_outside.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_outside.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_outside.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_outside.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_outside.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_outside.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_outside.webp"
+  },
+  {
+    "name": "surf_pagoda",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_pagoda.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_pagoda.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_pagoda.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_pagoda.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_pagoda.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_pagoda.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_pagoda.webp"
+  },
+  {
+    "name": "surf_pandora",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_pandora.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_pandora.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_pandora.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_pandora.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_pandora.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_pandora.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_pandora.webp"
+  },
+  {
     "name": "surf_pantheon",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_pantheon.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_pantheon.jpg",
@@ -19470,6 +20200,26 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_phantasia.webp"
   },
   {
+    "name": "surf_physics",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_physics.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_physics.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_physics.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_physics.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_physics.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_physics.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_physics.webp"
+  },
+  {
+    "name": "surf_placid",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_placid.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_placid.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_placid.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_placid.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_placid.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_placid.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_placid.webp"
+  },
+  {
     "name": "surf_plaguelands",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_plaguelands.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_plaguelands.jpg",
@@ -19478,6 +20228,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_plaguelands.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_plaguelands.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_plaguelands.webp"
+  },
+  {
+    "name": "surf_platinum",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_platinum.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_platinum.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_platinum.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_platinum.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_platinum.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_platinum.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_platinum.webp"
   },
   {
     "name": "surf_pools",
@@ -19520,6 +20280,26 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_prime_time_r3vamp.webp"
   },
   {
+    "name": "surf_prisma",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_prisma.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_prisma.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_prisma.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_prisma.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_prisma.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_prisma.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_prisma.webp"
+  },
+  {
+    "name": "surf_progress",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_progress.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_progress.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_progress.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_progress.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_progress.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_progress.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_progress.webp"
+  },
+  {
     "name": "surf_proliferation",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_proliferation.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_proliferation.jpg",
@@ -19540,6 +20320,26 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_prolix.webp"
   },
   {
+    "name": "surf_psychedelia",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_psychedelia.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_psychedelia.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_psychedelia.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_psychedelia.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_psychedelia.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_psychedelia.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_psychedelia.webp"
+  },
+  {
+    "name": "surf_psycho",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_psycho.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_psycho.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_psycho.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_psycho.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_psycho.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_psycho.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_psycho.webp"
+  },
+  {
     "name": "surf_purgatory",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_purgatory.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_purgatory.jpg",
@@ -19548,6 +20348,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_purgatory.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_purgatory.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_purgatory.webp"
+  },
+  {
+    "name": "surf_quark",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_quark.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_quark.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_quark.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_quark.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_quark.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_quark.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_quark.webp"
   },
   {
     "name": "surf_quartus",
@@ -19580,6 +20390,26 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_quest.webp"
   },
   {
+    "name": "surf_quickie",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_quickie.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_quickie.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_quickie.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_quickie.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_quickie.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_quickie.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_quickie.webp"
+  },
+  {
+    "name": "surf_race",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_race.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_race.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_race.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_race.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_race.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_race.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_race.webp"
+  },
+  {
     "name": "surf_ragequit",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_ragequit.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_ragequit.jpg",
@@ -19610,6 +20440,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_razer.webp"
   },
   {
+    "name": "surf_reprise",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_reprise.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_reprise.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_reprise.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_reprise.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_reprise.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_reprise.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_reprise.webp"
+  },
+  {
     "name": "surf_reprise_h",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_reprise_h.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_reprise_h.jpg",
@@ -19628,6 +20468,46 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_resort.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_resort.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_resort.webp"
+  },
+  {
+    "name": "surf_retroartz",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_retroartz.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_retroartz.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_retroartz.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_retroartz.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_retroartz.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_retroartz.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_retroartz.webp"
+  },
+  {
+    "name": "surf_rez",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_rez.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_rez.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_rez.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_rez.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_rez.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_rez.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_rez.webp"
+  },
+  {
+    "name": "surf_rgb",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_rgb.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_rgb.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_rgb.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_rgb.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_rgb.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_rgb.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_rgb.webp"
+  },
+  {
+    "name": "surf_riva",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_riva.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_riva.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_riva.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_riva.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_riva.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_riva.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_riva.webp"
   },
   {
     "name": "surf_rocco_v2",
@@ -19670,6 +20550,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_rookie2.webp"
   },
   {
+    "name": "surf_runewords",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_runewords.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_runewords.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_runewords.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_runewords.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_runewords.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_runewords.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_runewords.webp"
+  },
+  {
     "name": "surf_salient",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_salient.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_salient.jpg",
@@ -19678,6 +20568,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_salient.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_salient.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_salient.webp"
+  },
+  {
+    "name": "surf_salvador",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_salvador.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_salvador.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_salvador.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_salvador.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_salvador.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_salvador.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_salvador.webp"
   },
   {
     "name": "surf_sandbrick",
@@ -19700,6 +20600,26 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_sandstorm2.webp"
   },
   {
+    "name": "surf_saturday",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_saturday.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_saturday.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_saturday.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_saturday.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_saturday.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_saturday.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_saturday.webp"
+  },
+  {
+    "name": "surf_scarlet",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_scarlet.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_scarlet.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_scarlet.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_scarlet.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_scarlet.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_scarlet.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_scarlet.webp"
+  },
+  {
     "name": "surf_school",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_school.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_school.jpg",
@@ -19708,6 +20628,26 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_school.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_school.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_school.webp"
+  },
+  {
+    "name": "surf_scorch",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_scorch.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_scorch.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_scorch.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_scorch.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_scorch.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_scorch.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_scorch.webp"
+  },
+  {
+    "name": "surf_seaside",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_seaside.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_seaside.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_seaside.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_seaside.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_seaside.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_seaside.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_seaside.webp"
   },
   {
     "name": "surf_seaworld",
@@ -19740,6 +20680,46 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_sempar.webp"
   },
   {
+    "name": "surf_seraph",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_seraph.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_seraph.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_seraph.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_seraph.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_seraph.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_seraph.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_seraph.webp"
+  },
+  {
+    "name": "surf_serenity",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_serenity.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_serenity.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_serenity.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_serenity.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_serenity.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_serenity.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_serenity.webp"
+  },
+  {
+    "name": "surf_shade",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_shade.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_shade.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_shade.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_shade.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_shade.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_shade.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_shade.webp"
+  },
+  {
+    "name": "surf_shizzy",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_shizzy.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_shizzy.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_shizzy.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_shizzy.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_shizzy.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_shizzy.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_shizzy.webp"
+  },
+  {
     "name": "surf_sinister2",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_sinister2.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_sinister2.jpg",
@@ -19770,6 +20750,26 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_sinsane_ez.webp"
   },
   {
+    "name": "surf_sippysip",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_sippysip.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_sippysip.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_sippysip.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_sippysip.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_sippysip.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_sippysip.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_sippysip.webp"
+  },
+  {
+    "name": "surf_siren",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_siren.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_siren.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_siren.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_siren.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_siren.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_siren.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_siren.webp"
+  },
+  {
     "name": "surf_skill8",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_skill8.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_skill8.jpg",
@@ -19778,6 +20778,26 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_skill8.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_skill8.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_skill8.webp"
+  },
+  {
+    "name": "surf_skipalot",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_skipalot.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_skipalot.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_skipalot.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_skipalot.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_skipalot.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_skipalot.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_skipalot.webp"
+  },
+  {
+    "name": "surf_skyscraper",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_skyscraper.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_skyscraper.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_skyscraper.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_skyscraper.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_skyscraper.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_skyscraper.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_skyscraper.webp"
   },
   {
     "name": "surf_sleeper",
@@ -19790,6 +20810,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_sleeper.webp"
   },
   {
+    "name": "surf_slob",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_slob.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_slob.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_slob.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_slob.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_slob.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_slob.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_slob.webp"
+  },
+  {
     "name": "surf_smile",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_smile.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_smile.jpg",
@@ -19798,6 +20828,26 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_smile.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_smile.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_smile.webp"
+  },
+  {
+    "name": "surf_sofia",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_sofia.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_sofia.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_sofia.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_sofia.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_sofia.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_sofia.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_sofia.webp"
+  },
+  {
+    "name": "surf_solace",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_solace.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_solace.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_solace.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_solace.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_solace.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_solace.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_solace.webp"
   },
   {
     "name": "surf_solitude",
@@ -19818,6 +20868,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_southpark.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_southpark.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_southpark.webp"
+  },
+  {
+    "name": "surf_spaceracer",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_spaceracer.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_spaceracer.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_spaceracer.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_spaceracer.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_spaceracer.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_spaceracer.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_spaceracer.webp"
   },
   {
     "name": "surf_spectrum",
@@ -19850,6 +20910,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_stargaze.webp"
   },
   {
+    "name": "surf_static",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_static.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_static.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_static.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_static.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_static.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_static.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_static.webp"
+  },
+  {
     "name": "surf_stick",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_stick.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_stick.jpg",
@@ -19880,6 +20950,46 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_stonework4.webp"
   },
   {
+    "name": "surf_stonks",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_stonks.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_stonks.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_stonks.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_stonks.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_stonks.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_stonks.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_stonks.webp"
+  },
+  {
+    "name": "surf_struggle",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_struggle.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_struggle.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_struggle.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_struggle.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_struggle.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_struggle.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_struggle.webp"
+  },
+  {
+    "name": "surf_subway",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_subway.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_subway.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_subway.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_subway.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_subway.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_subway.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_subway.webp"
+  },
+  {
+    "name": "surf_sulfur",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_sulfur.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_sulfur.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_sulfur.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_sulfur.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_sulfur.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_sulfur.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_sulfur.webp"
+  },
+  {
     "name": "surf_summer",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_summer.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_summer.jpg",
@@ -19890,6 +21000,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_summer.webp"
   },
   {
+    "name": "surf_summit",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_summit.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_summit.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_summit.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_summit.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_summit.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_summit.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_summit.webp"
+  },
+  {
     "name": "surf_sunday",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_sunday.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_sunday.jpg",
@@ -19898,6 +21018,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_sunday.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_sunday.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_sunday.webp"
+  },
+  {
+    "name": "surf_surprise",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_surprise.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_surprise.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_surprise.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_surprise.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_surprise.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_surprise.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_surprise.webp"
   },
   {
     "name": "surf_swagtoast",
@@ -19920,6 +21050,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_sylvan.webp"
   },
   {
+    "name": "surf_syria",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_syria.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_syria.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_syria.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_syria.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_syria.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_syria.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_syria.webp"
+  },
+  {
     "name": "surf_techsune",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_techsune.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_techsune.jpg",
@@ -19928,6 +21068,26 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_techsune.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_techsune.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_techsune.webp"
+  },
+  {
+    "name": "surf_teho_v1",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_teho_v1.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_teho_v1.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_teho_v1.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_teho_v1.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_teho_v1.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_teho_v1.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_teho_v1.webp"
+  },
+  {
+    "name": "surf_tendies",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_tendies.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_tendies.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_tendies.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_tendies.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_tendies.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_tendies.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_tendies.webp"
   },
   {
     "name": "surf_tensor2",
@@ -19940,6 +21100,26 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_tensor2.webp"
   },
   {
+    "name": "surf_tenzo",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_tenzo.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_tenzo.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_tenzo.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_tenzo.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_tenzo.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_tenzo.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_tenzo.webp"
+  },
+  {
+    "name": "surf_thembrium",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_thembrium.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_thembrium.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_thembrium.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_thembrium.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_thembrium.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_thembrium.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_thembrium.webp"
+  },
+  {
     "name": "surf_theunexpected",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_theunexpected.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_theunexpected.jpg",
@@ -19948,6 +21128,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_theunexpected.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_theunexpected.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_theunexpected.webp"
+  },
+  {
+    "name": "surf_thicket",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_thicket.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_thicket.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_thicket.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_thicket.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_thicket.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_thicket.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_thicket.webp"
   },
   {
     "name": "surf_this",
@@ -19978,6 +21168,36 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_thunder.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_thunder.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_thunder.webp"
+  },
+  {
+    "name": "surf_tiltberg",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_tiltberg.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_tiltberg.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_tiltberg.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_tiltberg.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_tiltberg.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_tiltberg.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_tiltberg.webp"
+  },
+  {
+    "name": "surf_trazhtec",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_trazhtec.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_trazhtec.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_trazhtec.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_trazhtec.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_trazhtec.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_trazhtec.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_trazhtec.webp"
+  },
+  {
+    "name": "surf_treefort",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_treefort.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_treefort.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_treefort.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_treefort.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_treefort.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_treefort.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_treefort.webp"
   },
   {
     "name": "surf_tundra_v2",
@@ -20080,6 +21300,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_vienna.webp"
   },
   {
+    "name": "surf_volvic",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_volvic.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_volvic.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_volvic.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_volvic.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_volvic.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_volvic.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_volvic.webp"
+  },
+  {
     "name": "surf_voteforthisone",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_voteforthisone.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_voteforthisone.jpg",
@@ -20108,6 +21338,16 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_wasteland.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_wasteland.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_wasteland.webp"
+  },
+  {
+    "name": "surf_wew",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_wew.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_wew.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_wew.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_wew.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_wew.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_wew.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_wew.webp"
   },
   {
     "name": "surf_whiteout",
@@ -20190,6 +21430,26 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_year3000.webp"
   },
   {
+    "name": "surf_yellow",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_yellow.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_yellow.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_yellow.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_yellow.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_yellow.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_yellow.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_yellow.webp"
+  },
+  {
+    "name": "surf_zeitgeist",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_zeitgeist.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_zeitgeist.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_zeitgeist.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_zeitgeist.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_zeitgeist.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_zeitgeist.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_zeitgeist.webp"
+  },
+  {
     "name": "surf_zen",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_zen.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_zen.jpg",
@@ -20200,6 +21460,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_zen.webp"
   },
   {
+    "name": "surf_zenith",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_zenith.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_zenith.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_zenith.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_zenith.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_zenith.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_zenith.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_zenith.webp"
+  },
+  {
     "name": "surf_zion",
     "src": "https://newpage-community.github.io/csgo-map-images/images/surf_zion.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/surf_zion.jpg",
@@ -20208,6 +21478,26 @@
     "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_zion.webp",
     "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_zion.webp",
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_zion.webp"
+  },
+  {
+    "name": "surf_zoomathon",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_zoomathon.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_zoomathon.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_zoomathon.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_zoomathon.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_zoomathon.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_zoomathon.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_zoomathon.webp"
+  },
+  {
+    "name": "surf_zor",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/surf_zor.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/surf_zor.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/surf_zor.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/surf_zor.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/surf_zor.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/surf_zor.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/surf_zor.webp"
   },
   {
     "name": "survival_mayhem",
