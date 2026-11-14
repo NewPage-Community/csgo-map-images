@@ -16400,6 +16400,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_room_naipi_cs2.webp"
   },
   {
+    "name": "mg_rota_derp_v1_1",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/mg_rota_derp_v1_1.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/mg_rota_derp_v1_1.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/mg_rota_derp_v1_1.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/mg_rota_derp_v1_1.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_rota_derp_v1_1.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_rota_derp_v1_1.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_rota_derp_v1_1.webp"
+  },
+  {
     "name": "mg_ruin_course",
     "src": "https://newpage-community.github.io/csgo-map-images/images/mg_ruin_course.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/mg_ruin_course.jpg",
