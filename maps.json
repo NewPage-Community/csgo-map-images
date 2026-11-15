@@ -32800,6 +32800,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_voodoo_islands_p5.webp"
   },
   {
+    "name": "ze_voodoo_xtrem_islands",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/ze_voodoo_xtrem_islands.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/ze_voodoo_xtrem_islands.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/ze_voodoo_xtrem_islands.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/ze_voodoo_xtrem_islands.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/ze_voodoo_xtrem_islands.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/ze_voodoo_xtrem_islands.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/ze_voodoo_xtrem_islands.webp"
+  },
+  {
     "name": "ze_watagi_sanatorium",
     "src": "https://newpage-community.github.io/csgo-map-images/images/ze_watagi_sanatorium.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/ze_watagi_sanatorium.jpg",
