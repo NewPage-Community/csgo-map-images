@@ -2050,6 +2050,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/gd_sugarcane.webp"
   },
   {
+    "name": "gm_laboratory",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/gm_laboratory.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/gm_laboratory.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/gm_laboratory.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/gm_laboratory.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/gm_laboratory.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/gm_laboratory.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/gm_laboratory.webp"
+  },
+  {
     "name": "golf_kraker_reborn",
     "src": "https://newpage-community.github.io/csgo-map-images/images/golf_kraker_reborn.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/golf_kraker_reborn.jpg",
