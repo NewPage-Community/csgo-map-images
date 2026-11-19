@@ -6250,6 +6250,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_frozen_go.webp"
   },
   {
+    "name": "kz_frpt_bhop_peaceful",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/kz_frpt_bhop_peaceful.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/kz_frpt_bhop_peaceful.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/kz_frpt_bhop_peaceful.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/kz_frpt_bhop_peaceful.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/kz_frpt_bhop_peaceful.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/kz_frpt_bhop_peaceful.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/kz_frpt_bhop_peaceful.webp"
+  },
+  {
     "name": "kz_func_detail",
     "src": "https://newpage-community.github.io/csgo-map-images/images/kz_func_detail.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/kz_func_detail.jpg",
