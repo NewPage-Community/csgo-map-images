@@ -16750,6 +16750,16 @@
     "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_skytower_v1.webp"
   },
   {
+    "name": "mg_slingshot_labs",
+    "src": "https://newpage-community.github.io/csgo-map-images/images/mg_slingshot_labs.jpg",
+    "full": "https://newpage-community.github.io/csgo-map-images/images/mg_slingshot_labs.jpg",
+    "medium": "https://newpage-community.github.io/csgo-map-images/mediums/mg_slingshot_labs.jpg",
+    "thumb": "https://newpage-community.github.io/csgo-map-images/thumbnails/mg_slingshot_labs.jpg",
+    "webp": "https://newpage-community.github.io/csgo-map-images/webp/mg_slingshot_labs.webp",
+    "webp_medium": "https://newpage-community.github.io/csgo-map-images/webp/mediums/mg_slingshot_labs.webp",
+    "webp_thumb": "https://newpage-community.github.io/csgo-map-images/webp/thumbs/mg_slingshot_labs.webp"
+  },
+  {
     "name": "mg_slowdown",
     "src": "https://newpage-community.github.io/csgo-map-images/images/mg_slowdown.jpg",
     "full": "https://newpage-community.github.io/csgo-map-images/images/mg_slowdown.jpg",
